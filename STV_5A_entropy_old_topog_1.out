@@ -1,0 +1,968 @@
+------------------------------------------------------------
+Topographical entropy of residue side chains 
+ computed using all the dihedrals with pLogp formalism
+------------------------------------------------------------
+Side Chain Topographical Entropy (NALA 1) : 0.0000
+Dihedral 19   16   14   25    : 7.1514
+Dihedral 16   19   22   24    : 9.1336
+Dihedral 12   14   16   19    : 7.1496
+Dihedral 16   19   22   23    : 8.9127
+Dihedral 14   16   19   22    : 7.8181
+Side Chain Topographical Entropy (GLU 2) : 40.1654
+Side Chain Topographical Entropy (ALA 3) : 0.0000
+Side Chain Topographical Entropy (GLY 4) : 0.0000
+Dihedral 50   48   54   57    : 1.6808
+Dihedral 54   48   46   61    : 0.3874
+Dihedral 44   46   48   50    : 0.3874
+Dihedral 44   46   48   54    : 0.4125
+Dihedral 46   48   54   57    : 1.7739
+Dihedral 50   48   46   61    : 0.3874
+Side Chain Topographical Entropy (ILE 5) : 5.0295
+Dihedral 69   67   65   75    : -0.0000
+Dihedral 63   65   67   73    : -0.0000
+Dihedral 63   65   67   69    : -0.0000
+Dihedral 73   67   65   75    : -0.0000
+Side Chain Topographical Entropy (THR 6) : 0.0000
+Side Chain Topographical Entropy (GLY 7) : 0.0000
+Dihedral 90   88   86   96    : 1.8871
+Dihedral 84   86   88   90    : 1.9551
+Dihedral 94   88   86   96    : 1.8871
+Dihedral 84   86   88   94    : 1.9551
+Side Chain Topographical Entropy (THR 8) : 7.6844
+Dihedral 106  105  119  117   : -0.0000
+Dihedral 108  106  105  119   : -0.0000
+Dihedral 102  105  106  108   : -0.0000
+Dihedral 111  113  115  117   : -0.0000
+Dihedral 108  110  119  117   : -0.0000
+Dihedral 105  102  100  120   : -0.0000
+Dihedral 100  102  105  119   : -0.0000
+Dihedral 108  110  111  113   : -0.0000
+Dihedral 113  111  110  119   : -0.0000
+Dihedral 106  105  119  110   : -0.0000
+Dihedral 110  111  113  115   : -0.0000
+Dihedral 113  115  117  119   : -0.0000
+Dihedral 105  119  117  115   : -0.0000
+Dihedral 105  119  110  108   : -0.0000
+Dihedral 102  105  119  117   : -0.0000
+Dihedral 110  119  117  115   : -0.0000
+Dihedral 105  106  108  110   : -0.0000
+Dihedral 105  119  110  111   : -0.0000
+Dihedral 111  110  119  117   : -0.0000
+Dihedral 106  108  110  111   : -0.0000
+Dihedral 98   100  102  105   : -0.0000
+Dihedral 102  105  119  110   : -0.0000
+Dihedral 106  108  110  119   : -0.0000
+Side Chain Topographical Entropy (TRP 9) : 0.0000
+Dihedral 132  134  137  139   : -0.0000
+Dihedral 122  124  126  129   : 0.5768
+Dihedral 126  129  130  132   : -0.0000
+Dihedral 129  130  132  134   : -0.0000
+Dihedral 132  130  129  139   : -0.0000
+Dihedral 135  134  137  139   : -0.0000
+Dihedral 130  129  139  137   : -0.0000
+Dihedral 124  126  129  130   : -0.0000
+Dihedral 130  132  134  135   : -0.0000
+Dihedral 124  126  129  139   : 5.6883
+Dihedral 129  126  124  141   : 0.4270
+Dihedral 129  139  137  134   : -0.0000
+Dihedral 130  132  134  137   : -0.0000
+Dihedral 126  129  139  137   : -0.0000
+Side Chain Topographical Entropy (TYR 10) : 6.6920
+Side Chain Topographical Entropy (ALA 11) : 0.0000
+Dihedral 155  157  160  163   : 8.0500
+Dihedral 153  155  157  160   : 5.5983
+Dihedral 157  160  163  165   : 6.6220
+Dihedral 160  157  155  168   : 5.5709
+Side Chain Topographical Entropy (GLN 12) : 25.8413
+Dihedral 172  174  177  183   : 7.0344
+Dihedral 170  172  174  177   : 4.3224
+Dihedral 172  174  177  179   : 7.0344
+Dihedral 177  174  172  187   : 4.2733
+Side Chain Topographical Entropy (LEU 13) : 22.6645
+Side Chain Topographical Entropy (GLY 14) : 0.0000
+Dihedral 203  200  198  205   : 5.6009
+Dihedral 196  198  200  203   : 5.6442
+Side Chain Topographical Entropy (SER 15) : 11.2450
+Dihedral 207  209  211  213   : 1.5369
+Dihedral 207  209  211  217   : 1.6192
+Dihedral 217  211  209  219   : 1.5090
+Dihedral 213  211  209  219   : 1.5090
+Side Chain Topographical Entropy (THR 16) : 6.1742
+Dihedral 228  237  235  233   : -0.0000
+Dihedral 228  229  231  233   : -0.0000
+Dihedral 231  233  235  237   : -0.0000
+Dihedral 229  231  233  235   : -0.0000
+Dihedral 231  229  228  237   : -0.0000
+Dihedral 223  225  228  237   : -0.0000
+Dihedral 225  228  229  231   : -0.0000
+Dihedral 229  228  237  235   : -0.0000
+Dihedral 228  225  223  239   : -0.0000
+Dihedral 223  225  228  229   : 5.7391
+Dihedral 221  223  225  228   : 0.2168
+Dihedral 225  228  237  235   : -0.0000
+Side Chain Topographical Entropy (PHE 17) : 5.9559
+Dihedral 251  245  243  258   : 2.6628
+Dihedral 241  243  245  251   : 2.7547
+Dihedral 247  245  251  254   : 0.6781
+Dihedral 241  243  245  247   : 2.6628
+Dihedral 243  245  251  254   : 0.6476
+Dihedral 247  245  243  258   : 2.6159
+Side Chain Topographical Entropy (ILE 18) : 12.0218
+Dihedral 260  262  264  270   : 2.9839
+Dihedral 266  264  262  274   : 0.8473
+Dihedral 270  264  262  274   : 1.3431
+Dihedral 260  262  264  266   : 1.5512
+Side Chain Topographical Entropy (VAL 19) : 6.7254
+Dihedral 276  278  280  282   : 5.3132
+Dihedral 286  280  278  288   : 5.3188
+Dihedral 282  280  278  288   : 5.3188
+Dihedral 276  278  280  286   : 5.3132
+Side Chain Topographical Entropy (THR 20) : 21.2638
+Side Chain Topographical Entropy (ALA 21) : 0.0000
+Side Chain Topographical Entropy (GLY 22) : 0.0000
+Side Chain Topographical Entropy (ALA 23) : 0.0000
+Dihedral 319  321  324  325   : 7.8943
+Dihedral 319  321  324  326   : 9.1200
+Dihedral 317  319  321  324   : 5.9174
+Dihedral 324  321  319  327   : 5.7353
+Side Chain Topographical Entropy (ASP 24) : 28.6670
+Side Chain Topographical Entropy (GLY 25) : 0.0000
+Side Chain Topographical Entropy (ALA 26) : 0.0000
+Dihedral 348  350  353  355   : 0.6476
+Dihedral 348  350  353  359   : 0.6476
+Dihedral 353  350  348  363   : 1.0323
+Dihedral 346  348  350  353   : 1.0323
+Side Chain Topographical Entropy (LEU 27) : 3.3596
+Dihedral 371  369  367  377   : 4.9301
+Dihedral 365  367  369  371   : 4.8733
+Dihedral 365  367  369  375   : 4.8421
+Dihedral 375  369  367  377   : 4.8240
+Side Chain Topographical Entropy (THR 28) : 19.4695
+Side Chain Topographical Entropy (GLY 29) : 0.0000
+Dihedral 396  390  388  398   : 6.4171
+Dihedral 386  388  390  396   : 6.3912
+Dihedral 392  390  388  398   : 6.4171
+Dihedral 386  388  390  392   : 6.4153
+Side Chain Topographical Entropy (THR 30) : 25.6405
+Dihedral 408  410  412  413   : -0.0000
+Dihedral 410  412  415  417   : -0.0000
+Dihedral 404  407  417  415   : -0.0000
+Dihedral 413  412  415  417   : -0.0000
+Dihedral 402  404  407  417   : 5.0860
+Dihedral 408  407  417  415   : -0.0000
+Dihedral 402  404  407  408   : -0.0000
+Dihedral 408  410  412  415   : -0.0000
+Dihedral 400  402  404  407   : 2.4768
+Dihedral 407  408  410  412   : -0.0000
+Dihedral 404  407  408  410   : -0.0000
+Dihedral 410  408  407  417   : -0.0000
+Dihedral 407  404  402  419   : 1.8411
+Dihedral 407  417  415  412   : -0.0000
+Side Chain Topographical Entropy (TYR 31) : 9.4039
+Dihedral 428  425  423  434   : 1.4488
+Dihedral 423  425  428  431   : 2.5930
+Dihedral 425  428  431  432   : 8.1667
+Dihedral 421  423  425  428   : 1.4881
+Dihedral 425  428  431  433   : 8.5410
+Side Chain Topographical Entropy (GLU 32) : 22.2376
+Dihedral 436  438  440  443   : 4.8231
+Dihedral 443  440  438  445   : 4.7744
+Side Chain Topographical Entropy (SER 33) : 9.5976
+Side Chain Topographical Entropy (ALA 34) : 0.0000
+Dihedral 457  459  461  467   : 7.8891
+Dihedral 467  461  459  471   : 7.8770
+Dihedral 457  459  461  463   : 7.8851
+Dihedral 463  461  459  471   : 7.8749
+Side Chain Topographical Entropy (VAL 35) : 31.5261
+Side Chain Topographical Entropy (GLY 36) : 0.0000
+Dihedral 482  484  487  489   : 7.1514
+Dihedral 480  482  484  487   : 6.3064
+Dihedral 487  484  482  492   : 6.2675
+Side Chain Topographical Entropy (ASN 37) : 19.7253
+Side Chain Topographical Entropy (ALA 38) : 0.0000
+Dihedral 504  506  508  511   : 1.8984
+Dihedral 506  508  511  514   : 4.0123
+Dihedral 511  508  506  517   : 1.6012
+Dihedral 508  511  514  515   : 8.8786
+Dihedral 508  511  514  516   : 8.9249
+Side Chain Topographical Entropy (GLU 39) : 25.3155
+Dihedral 519  521  523  526   : 8.6190
+Dihedral 526  523  521  528   : 8.6289
+Side Chain Topographical Entropy (SER 40) : 17.2479
+Dihedral 530  532  534  537   : 5.3243
+Dihedral 534  537  540  543   : 8.4581
+Dihedral 540  543  545  546   : 0.1698
+Dihedral 540  543  545  549   : 0.2617
+Dihedral 537  534  532  552   : 5.3243
+Dihedral 532  534  537  540   : 1.2327
+Side Chain Topographical Entropy (ARG 41) : 20.7710
+Dihedral 564  566  569  571   : -0.0000
+Dihedral 561  562  564  566   : -0.0000
+Dihedral 561  571  569  566   : -0.0000
+Dihedral 562  564  566  569   : -0.0000
+Dihedral 558  561  562  564   : -0.0000
+Dihedral 556  558  561  562   : 3.9067
+Dihedral 564  562  561  571   : -0.0000
+Dihedral 556  558  561  571   : 0.1698
+Dihedral 562  564  566  567   : -0.0000
+Dihedral 554  556  558  561   : 0.5405
+Dihedral 561  558  556  573   : 0.0657
+Dihedral 567  566  569  571   : -0.0000
+Dihedral 562  561  571  569   : -0.0000
+Dihedral 558  561  571  569   : -0.0000
+Side Chain Topographical Entropy (TYR 42) : 4.6828
+Dihedral 581  579  577  589   : 0.6125
+Dihedral 585  579  577  589   : 0.6125
+Dihedral 575  577  579  585   : 0.6781
+Dihedral 575  577  579  581   : 0.6125
+Side Chain Topographical Entropy (VAL 43) : 2.5155
+Dihedral 598  595  593  608   : 0.2617
+Dihedral 591  593  595  598   : 0.2617
+Dihedral 593  595  598  600   : 0.4270
+Dihedral 593  595  598  604   : 0.5034
+Side Chain Topographical Entropy (LEU 44) : 1.4539
+Dihedral 610  612  614  620   : 0.3050
+Dihedral 620  614  612  622   : 0.1698
+Dihedral 616  614  612  622   : 0.1200
+Dihedral 610  612  614  616   : 0.3050
+Side Chain Topographical Entropy (THR 45) : 0.8997
+Side Chain Topographical Entropy (GLY 46) : 0.0000
+Dihedral 641  644  646  647   : -0.0000
+Dihedral 641  644  646  650   : 0.4656
+Dihedral 631  633  635  638   : -0.0000
+Dihedral 633  635  638  641   : -0.0000
+Dihedral 635  638  641  644   : -0.0000
+Dihedral 638  635  633  653   : -0.0000
+Side Chain Topographical Entropy (ARG 47) : 0.4656
+Dihedral 659  662  663  665   : -0.0000
+Dihedral 663  665  667  668   : -0.0000
+Dihedral 659  662  672  670   : -0.0000
+Dihedral 657  659  662  672   : 2.1516
+Dihedral 662  672  670  667   : -0.0000
+Dihedral 662  663  665  667   : -0.0000
+Dihedral 657  659  662  663   : -0.0000
+Dihedral 668  667  670  672   : -0.0000
+Dihedral 665  667  670  672   : -0.0000
+Dihedral 663  665  667  670   : -0.0000
+Dihedral 663  662  672  670   : -0.0000
+Dihedral 665  663  662  672   : -0.0000
+Dihedral 655  657  659  662   : 1.2337
+Dihedral 662  659  657  674   : 0.3468
+Side Chain Topographical Entropy (TYR 48) : 3.7321
+Dihedral 678  680  683  685   : 3.6831
+Dihedral 683  680  678  686   : -0.0000
+Dihedral 676  678  680  683   : -0.0000
+Dihedral 678  680  683  684   : -0.0000
+Side Chain Topographical Entropy (ASP 49) : 3.6831
+Dihedral 695  692  690  697   : 0.0657
+Dihedral 688  690  692  695   : 0.1315
+Side Chain Topographical Entropy (SER 50) : 0.1972
+Side Chain Topographical Entropy (ALA 51) : 0.0000
+Dihedral 710  713  716  719   : 5.7543
+Dihedral 707  709  710  713   : 1.9551
+Dihedral 709  710  713  716   : 3.6140
+Dihedral 709  719  716  713   : 1.4747
+Dihedral 713  716  719  721   : 2.7392
+Side Chain Topographical Entropy (PRO 52) : 15.5373
+Side Chain Topographical Entropy (ALA 53) : 0.0000
+Dihedral 733  735  737  739   : 4.9063
+Dihedral 743  737  735  745   : 4.9688
+Dihedral 733  735  737  743   : 4.9931
+Dihedral 739  737  735  745   : 4.9535
+Side Chain Topographical Entropy (THR 54) : 19.8217
+Dihedral 754  751  749  757   : -0.0000
+Dihedral 749  751  754  755   : 6.7494
+Dihedral 749  751  754  756   : 6.7153
+Dihedral 747  749  751  754   : 0.4656
+Side Chain Topographical Entropy (ASP 55) : 13.9304
+Side Chain Topographical Entropy (GLY 56) : 0.0000
+Dihedral 766  768  770  773   : 5.6738
+Dihedral 773  770  768  775   : 5.6790
+Side Chain Topographical Entropy (SER 57) : 11.3528
+Side Chain Topographical Entropy (GLY 58) : 0.0000
+Dihedral 790  788  786  796   : 0.2617
+Dihedral 784  786  788  790   : 0.2825
+Dihedral 784  786  788  794   : 0.2897
+Dihedral 794  788  786  796   : 0.2168
+Side Chain Topographical Entropy (THR 59) : 1.0508
+Side Chain Topographical Entropy (ALA 60) : 0.0000
+Dihedral 815  812  810  825   : 0.8515
+Dihedral 808  810  812  815   : 3.6514
+Dihedral 810  812  815  821   : 1.5419
+Dihedral 810  812  815  817   : 1.4618
+Side Chain Topographical Entropy (LEU 61) : 7.5066
+Side Chain Topographical Entropy (GLY 62) : 0.0000
+Dihedral 849  847  846  855   : -0.0000
+Dihedral 847  849  851  853   : -0.0000
+Dihedral 844  846  847  849   : -0.0000
+Dihedral 846  855  853  851   : -0.0000
+Dihedral 836  838  841  855   : -0.0000
+Dihedral 842  841  855  846   : -0.0000
+Dihedral 844  842  841  855   : -0.0000
+Dihedral 842  841  855  853   : -0.0000
+Dihedral 846  847  849  851   : -0.0000
+Dihedral 838  841  855  853   : -0.0000
+Dihedral 838  841  855  846   : -0.0000
+Dihedral 838  841  842  844   : -0.0000
+Dihedral 847  846  855  853   : -0.0000
+Dihedral 841  855  846  847   : -0.0000
+Dihedral 842  844  846  855   : -0.0000
+Dihedral 841  855  846  844   : -0.0000
+Dihedral 841  838  836  856   : -0.0000
+Dihedral 834  836  838  841   : 0.0657
+Dihedral 841  855  853  851   : -0.0000
+Dihedral 844  846  855  853   : -0.0000
+Dihedral 849  851  853  855   : -0.0000
+Dihedral 841  842  844  846   : -0.0000
+Dihedral 842  844  846  847   : -0.0000
+Side Chain Topographical Entropy (TRP 63) : 0.0657
+Dihedral 858  860  862  864   : -0.0000
+Dihedral 868  862  860  870   : -0.0000
+Dihedral 858  860  862  868   : -0.0000
+Dihedral 864  862  860  870   : -0.0000
+Side Chain Topographical Entropy (THR 64) : 0.0000
+Dihedral 882  876  874  886   : 0.0657
+Dihedral 878  876  874  886   : 0.0657
+Dihedral 872  874  876  882   : 0.0657
+Dihedral 872  874  876  878   : 0.0657
+Side Chain Topographical Entropy (VAL 65) : 0.2630
+Side Chain Topographical Entropy (ALA 66) : 0.0000
+Dihedral 908  906  905  919   : -0.0000
+Dihedral 906  905  919  910   : -0.0000
+Dihedral 908  910  919  917   : -0.0000
+Dihedral 905  919  917  915   : -0.0000
+Dihedral 910  911  913  915   : -0.0000
+Dihedral 905  906  908  910   : -0.0000
+Dihedral 913  915  917  919   : -0.0000
+Dihedral 898  900  902  905   : 0.1698
+Dihedral 906  905  919  917   : -0.0000
+Dihedral 906  908  910  919   : -0.0000
+Dihedral 902  905  906  908   : -0.0000
+Dihedral 911  910  919  917   : -0.0000
+Dihedral 913  911  910  919   : -0.0000
+Dihedral 902  905  919  910   : -0.0000
+Dihedral 902  905  919  917   : 0.0657
+Dihedral 911  913  915  917   : -0.0000
+Dihedral 905  919  910  908   : -0.0000
+Dihedral 910  919  917  915   : -0.0000
+Dihedral 908  910  911  913   : -0.0000
+Dihedral 905  902  900  920   : 0.0657
+Dihedral 900  902  905  919   : -0.0000
+Dihedral 906  908  910  911   : -0.0000
+Dihedral 905  919  910  911   : -0.0000
+Side Chain Topographical Entropy (TRP 67) : 0.3013
+Dihedral 924  926  929  932   : 2.8865
+Dihedral 929  932  935  938   : 7.6117
+Dihedral 929  926  924  942   : 5.3005
+Dihedral 926  929  932  935   : 5.8322
+Dihedral 922  924  926  929   : 5.9965
+Side Chain Topographical Entropy (LYS 68) : 27.6273
+Dihedral 944  946  948  951   : 0.0657
+Dihedral 951  948  946  956   : -0.0000
+Dihedral 946  948  951  953   : 4.8314
+Side Chain Topographical Entropy (ASN 69) : 4.8972
+Dihedral 960  962  965  967   : 7.9540
+Dihedral 965  962  960  970   : 6.9026
+Dihedral 958  960  962  965   : 6.8691
+Side Chain Topographical Entropy (ASN 70) : 21.7257
+Dihedral 974  976  979  989   : 7.2292
+Dihedral 979  989  987  984   : -0.0000
+Dihedral 979  976  974  991   : 5.8342
+Dihedral 976  979  980  982   : -0.0000
+Dihedral 985  984  987  989   : -0.0000
+Dihedral 976  979  989  987   : -0.0000
+Dihedral 980  979  989  987   : -0.0000
+Dihedral 974  976  979  980   : 9.1298
+Dihedral 972  974  976  979   : 6.0537
+Dihedral 980  982  984  987   : -0.0000
+Dihedral 982  980  979  989   : -0.0000
+Dihedral 982  984  987  989   : -0.0000
+Dihedral 980  982  984  985   : -0.0000
+Dihedral 979  980  982  984   : -0.0000
+Side Chain Topographical Entropy (TYR 71) : 28.2469
+Dihedral 997  1000 1003 1006  : 9.0374
+Dihedral 993  995  997  1000  : 8.6926
+Dihedral 1003 1006 1008 1012  : 0.3050
+Dihedral 1003 1006 1008 1009  : 0.2168
+Dihedral 1000 997  995  1015  : 8.6787
+Dihedral 995  997  1000 1003  : 5.1181
+Side Chain Topographical Entropy (ARG 72) : 32.0485
+Dihedral 1017 1019 1021 1024  : 3.8272
+Dihedral 1024 1021 1019 1029  : 3.6694
+Dihedral 1019 1021 1024 1026  : 6.3054
+Side Chain Topographical Entropy (ASN 73) : 13.8021
+Side Chain Topographical Entropy (ALA 74) : 0.0000
+Dihedral 1048 1049 1051 1053  : -0.0000
+Dihedral 1045 1048 1049 1051  : -0.0000
+Dihedral 1049 1048 1054 1053  : -0.0000
+Dihedral 1049 1051 1053 1054  : -0.0000
+Dihedral 1041 1043 1045 1048  : 0.3468
+Dihedral 1043 1045 1048 1054  : 2.6104
+Dihedral 1048 1054 1053 1051  : -0.0000
+Dihedral 1043 1045 1048 1049  : -0.0000
+Dihedral 1045 1048 1054 1053  : -0.0000
+Dihedral 1051 1049 1048 1054  : -0.0000
+Dihedral 1048 1045 1043 1056  : -0.0000
+Side Chain Topographical Entropy (HID 75) : 2.9572
+Dihedral 1065 1062 1060 1067  : 2.2582
+Dihedral 1058 1060 1062 1065  : 2.3980
+Side Chain Topographical Entropy (SER 76) : 4.6562
+Side Chain Topographical Entropy (ALA 77) : 0.0000
+Dihedral 1085 1083 1081 1091  : -0.0000
+Dihedral 1079 1081 1083 1085  : -0.0000
+Dihedral 1089 1083 1081 1091  : -0.0000
+Dihedral 1079 1081 1083 1089  : -0.0000
+Side Chain Topographical Entropy (THR 78) : 0.0000
+Dihedral 1093 1095 1097 1099  : 0.1200
+Dihedral 1099 1097 1095 1105  : 0.1200
+Dihedral 1093 1095 1097 1103  : 0.1200
+Dihedral 1103 1097 1095 1105  : 0.1200
+Side Chain Topographical Entropy (THR 79) : 0.4798
+Dihedral 1114 1128 1119 1120  : -0.0000
+Dihedral 1111 1114 1128 1126  : -0.0000
+Dihedral 1122 1124 1126 1128  : -0.0000
+Dihedral 1115 1117 1119 1128  : -0.0000
+Dihedral 1115 1114 1128 1119  : -0.0000
+Dihedral 1114 1128 1126 1124  : -0.0000
+Dihedral 1111 1114 1115 1117  : -0.0000
+Dihedral 1117 1119 1128 1126  : -0.0000
+Dihedral 1115 1114 1128 1126  : -0.0000
+Dihedral 1117 1119 1120 1122  : -0.0000
+Dihedral 1122 1120 1119 1128  : -0.0000
+Dihedral 1109 1111 1114 1128  : 0.8790
+Dihedral 1114 1128 1119 1117  : -0.0000
+Dihedral 1111 1114 1128 1119  : -0.0000
+Dihedral 1115 1117 1119 1120  : -0.0000
+Dihedral 1117 1115 1114 1128  : -0.0000
+Dihedral 1119 1120 1122 1124  : -0.0000
+Dihedral 1114 1115 1117 1119  : -0.0000
+Dihedral 1107 1109 1111 1114  : -0.0000
+Dihedral 1119 1128 1126 1124  : -0.0000
+Dihedral 1120 1119 1128 1126  : -0.0000
+Dihedral 1114 1111 1109 1129  : -0.0000
+Dihedral 1120 1122 1124 1126  : -0.0000
+Side Chain Topographical Entropy (TRP 80) : 0.8790
+Dihedral 1138 1135 1133 1140  : 0.4531
+Dihedral 1131 1133 1135 1138  : 0.5691
+Side Chain Topographical Entropy (SER 81) : 1.0222
+Side Chain Topographical Entropy (GLY 82) : 0.0000
+Dihedral 1151 1153 1156 1159  : 0.4270
+Dihedral 1156 1153 1151 1164  : 6.8566
+Dihedral 1153 1156 1159 1161  : 6.3833
+Dihedral 1149 1151 1153 1156  : 6.8896
+Side Chain Topographical Entropy (GLN 83) : 20.5565
+Dihedral 1179 1178 1181 1183  : -0.0000
+Dihedral 1173 1174 1176 1178  : -0.0000
+Dihedral 1174 1176 1178 1179  : -0.0000
+Dihedral 1176 1178 1181 1183  : -0.0000
+Dihedral 1173 1183 1181 1178  : -0.0000
+Dihedral 1174 1173 1183 1181  : -0.0000
+Dihedral 1173 1170 1168 1185  : 0.1200
+Dihedral 1170 1173 1183 1181  : -0.0000
+Dihedral 1174 1176 1178 1181  : -0.0000
+Dihedral 1170 1173 1174 1176  : -0.0000
+Dihedral 1166 1168 1170 1173  : 0.1200
+Dihedral 1176 1174 1173 1183  : -0.0000
+Dihedral 1168 1170 1173 1183  : -0.0000
+Dihedral 1168 1170 1173 1174  : 5.4232
+Side Chain Topographical Entropy (TYR 84) : 5.6631
+Dihedral 1187 1189 1191 1197  : 1.4747
+Dihedral 1193 1191 1189 1201  : 1.3698
+Dihedral 1197 1191 1189 1201  : 1.4227
+Dihedral 1187 1189 1191 1193  : 1.3698
+Side Chain Topographical Entropy (VAL 85) : 5.6370
+Side Chain Topographical Entropy (GLY 86) : 0.0000
+Side Chain Topographical Entropy (GLY 87) : 0.0000
+Side Chain Topographical Entropy (ALA 88) : 0.0000
+Dihedral 1229 1231 1234 1237  : 8.0608
+Dihedral 1227 1229 1231 1234  : 6.1544
+Dihedral 1231 1234 1237 1238  : 9.1320
+Dihedral 1231 1234 1237 1239  : 8.5417
+Dihedral 1234 1231 1229 1240  : 6.1386
+Side Chain Topographical Entropy (GLU 89) : 38.0276
+Side Chain Topographical Entropy (ALA 90) : 0.0000
+Dihedral 1254 1256 1259 1262  : 3.0262
+Dihedral 1256 1259 1262 1265  : 8.4035
+Dihedral 1259 1256 1254 1274  : 9.0641
+Dihedral 1252 1254 1256 1259  : 9.0934
+Dihedral 1262 1265 1267 1268  : -0.0000
+Dihedral 1262 1265 1267 1271  : 0.2168
+Side Chain Topographical Entropy (ARG 91) : 29.8040
+Dihedral 1286 1280 1278 1293  : 0.3468
+Dihedral 1276 1278 1280 1282  : 0.4270
+Dihedral 1276 1278 1280 1286  : 0.9720
+Dihedral 1278 1280 1286 1289  : 0.1315
+Dihedral 1282 1280 1278 1293  : 0.1698
+Dihedral 1282 1280 1286 1289  : 0.1857
+Side Chain Topographical Entropy (ILE 92) : 2.2328
+Dihedral 1295 1297 1299 1302  : 0.8692
+Dihedral 1297 1299 1302 1304  : 5.9778
+Dihedral 1302 1299 1297 1307  : 0.8151
+Side Chain Topographical Entropy (ASN 93) : 7.6622
+Dihedral 1309 1311 1313 1319  : 0.5405
+Dihedral 1309 1311 1313 1315  : 0.2168
+Dihedral 1315 1313 1311 1321  : -0.0000
+Dihedral 1319 1313 1311 1321  : -0.0000
+Side Chain Topographical Entropy (THR 94) : 0.7573
+Dihedral 1323 1325 1327 1330  : 1.7232
+Dihedral 1325 1327 1330 1333  : 2.1919
+Dihedral 1330 1327 1325 1338  : 1.7232
+Dihedral 1327 1330 1333 1335  : 5.2546
+Side Chain Topographical Entropy (GLN 95) : 10.8929
+Dihedral 1347 1348 1350 1352  : -0.0000
+Dihedral 1352 1361 1359 1357  : -0.0000
+Dihedral 1350 1348 1347 1361  : -0.0000
+Dihedral 1355 1353 1352 1361  : -0.0000
+Dihedral 1348 1350 1352 1361  : -0.0000
+Dihedral 1347 1361 1352 1350  : -0.0000
+Dihedral 1350 1352 1361 1359  : -0.0000
+Dihedral 1353 1352 1361 1359  : -0.0000
+Dihedral 1348 1347 1361 1359  : -0.0000
+Dihedral 1344 1347 1361 1352  : -0.0000
+Dihedral 1347 1361 1352 1353  : -0.0000
+Dihedral 1342 1344 1347 1361  : 1.6505
+Dihedral 1348 1350 1352 1353  : -0.0000
+Dihedral 1347 1361 1359 1357  : -0.0000
+Dihedral 1350 1352 1353 1355  : -0.0000
+Dihedral 1353 1355 1357 1359  : -0.0000
+Dihedral 1352 1353 1355 1357  : -0.0000
+Dihedral 1348 1347 1361 1352  : -0.0000
+Dihedral 1340 1342 1344 1347  : -0.0000
+Dihedral 1344 1347 1348 1350  : -0.0000
+Dihedral 1344 1347 1361 1359  : -0.0000
+Dihedral 1347 1344 1342 1362  : -0.0000
+Dihedral 1355 1357 1359 1361  : -0.0000
+Side Chain Topographical Entropy (TRP 96) : 1.6505
+Dihedral 1366 1368 1371 1377  : 4.7683
+Dihedral 1371 1368 1366 1381  : 0.0657
+Dihedral 1366 1368 1371 1373  : 4.6817
+Dihedral 1364 1366 1368 1371  : 0.0657
+Side Chain Topographical Entropy (LEU 97) : 9.5814
+Dihedral 1385 1387 1390 1392  : 1.7645
+Dihedral 1383 1385 1387 1390  : -0.0000
+Dihedral 1385 1387 1390 1396  : 1.7940
+Dihedral 1390 1387 1385 1400  : -0.0000
+Side Chain Topographical Entropy (LEU 98) : 3.5585
+Dihedral 1402 1404 1406 1408  : -0.0000
+Dihedral 1408 1406 1404 1414  : -0.0000
+Dihedral 1412 1406 1404 1414  : -0.0000
+Dihedral 1402 1404 1406 1412  : -0.0000
+Side Chain Topographical Entropy (THR 99) : 0.0000
+Dihedral 1423 1420 1418 1425  : 8.2404
+Dihedral 1416 1418 1420 1423  : 8.2467
+Side Chain Topographical Entropy (SER 100) : 16.4871
+Side Chain Topographical Entropy (GLY 101) : 0.0000
+Dihedral 1440 1438 1436 1446  : -0.0000
+Dihedral 1434 1436 1438 1440  : -0.0000
+Dihedral 1434 1436 1438 1444  : 0.1200
+Dihedral 1444 1438 1436 1446  : -0.0000
+Side Chain Topographical Entropy (THR 102) : 0.1200
+Dihedral 1448 1450 1452 1454  : 0.0657
+Dihedral 1454 1452 1450 1460  : 0.0657
+Dihedral 1458 1452 1450 1460  : 0.0657
+Dihedral 1448 1450 1452 1458  : 0.1200
+Side Chain Topographical Entropy (THR 103) : 0.3172
+Dihedral 1462 1464 1466 1469  : 6.7801
+Dihedral 1464 1466 1469 1472  : 7.0025
+Dihedral 1466 1469 1472 1473  : 9.0810
+Dihedral 1466 1469 1472 1474  : 9.1173
+Dihedral 1469 1466 1464 1475  : 6.7517
+Side Chain Topographical Entropy (GLU 104) : 38.7325
+Side Chain Topographical Entropy (ALA 105) : 0.0000
+Dihedral 1487 1489 1491 1494  : 2.1728
+Dihedral 1494 1491 1489 1499  : 2.2975
+Dihedral 1489 1491 1494 1496  : 3.8245
+Side Chain Topographical Entropy (ASN 106) : 8.2947
+Side Chain Topographical Entropy (ALA 107) : 0.0000
+Dihedral 1511 1513 1515 1518  : 0.3468
+Dihedral 1523 1524 1526 1528  : -0.0000
+Dihedral 1524 1526 1528 1530  : -0.0000
+Dihedral 1518 1532 1523 1521  : -0.0000
+Dihedral 1521 1523 1524 1526  : -0.0000
+Dihedral 1515 1518 1519 1521  : -0.0000
+Dihedral 1523 1532 1530 1528  : -0.0000
+Dihedral 1521 1519 1518 1532  : -0.0000
+Dihedral 1518 1532 1530 1528  : -0.0000
+Dihedral 1519 1521 1523 1524  : -0.0000
+Dihedral 1518 1515 1513 1533  : -0.0000
+Dihedral 1519 1518 1532 1523  : -0.0000
+Dihedral 1513 1515 1518 1532  : 5.6642
+Dihedral 1515 1518 1532 1530  : -0.0000
+Dihedral 1518 1519 1521 1523  : -0.0000
+Dihedral 1518 1532 1523 1524  : -0.0000
+Dihedral 1519 1518 1532 1530  : -0.0000
+Dihedral 1521 1523 1532 1530  : -0.0000
+Dihedral 1526 1528 1530 1532  : -0.0000
+Dihedral 1526 1524 1523 1532  : -0.0000
+Dihedral 1524 1523 1532 1530  : -0.0000
+Dihedral 1515 1518 1532 1523  : -0.0000
+Dihedral 1519 1521 1523 1532  : -0.0000
+Side Chain Topographical Entropy (TRP 108) : 6.0109
+Dihedral 1535 1537 1539 1542  : 6.3657
+Dihedral 1539 1542 1545 1548  : 6.2743
+Dihedral 1542 1545 1548 1551  : 2.9001
+Dihedral 1542 1539 1537 1555  : 6.3859
+Dihedral 1537 1539 1542 1545  : 0.6488
+Side Chain Topographical Entropy (LYS 109) : 22.5748
+Dihedral 1557 1559 1561 1564  : 0.2168
+Dihedral 1564 1561 1559 1566  : 0.0657
+Side Chain Topographical Entropy (SER 110) : 0.2826
+Dihedral 1568 1570 1572 1578  : 0.0657
+Dihedral 1578 1572 1570 1580  : -0.0000
+Dihedral 1574 1572 1570 1580  : -0.0000
+Dihedral 1568 1570 1572 1574  : 0.0657
+Side Chain Topographical Entropy (THR 111) : 0.1315
+Dihedral 1582 1584 1586 1589  : 2.6760
+Dihedral 1589 1586 1584 1599  : 2.7049
+Dihedral 1584 1586 1589 1591  : 1.9775
+Dihedral 1584 1586 1589 1595  : 1.9997
+Side Chain Topographical Entropy (LEU 112) : 9.3581
+Dihedral 1611 1605 1603 1615  : 3.8234
+Dihedral 1601 1603 1605 1611  : 3.8704
+Dihedral 1601 1603 1605 1607  : 3.8094
+Dihedral 1607 1605 1603 1615  : 3.8234
+Side Chain Topographical Entropy (VAL 113) : 15.3266
+Side Chain Topographical Entropy (GLY 114) : 0.0000
+Dihedral 1631 1637 1636 1634  : -0.0000
+Dihedral 1634 1632 1631 1637  : -0.0000
+Dihedral 1626 1628 1631 1637  : -0.0000
+Dihedral 1631 1632 1634 1636  : -0.0000
+Dihedral 1628 1631 1637 1636  : -0.0000
+Dihedral 1631 1628 1626 1639  : -0.0000
+Dihedral 1628 1631 1632 1634  : -0.0000
+Dihedral 1632 1631 1637 1636  : -0.0000
+Dihedral 1632 1634 1636 1637  : -0.0000
+Dihedral 1624 1626 1628 1631  : -0.0000
+Dihedral 1626 1628 1631 1632  : 5.6122
+Side Chain Topographical Entropy (HID 115) : 5.6122
+Dihedral 1643 1645 1648 1649  : 5.8532
+Dihedral 1648 1645 1643 1651  : 0.5034
+Dihedral 1643 1645 1648 1650  : 5.4171
+Dihedral 1641 1643 1645 1648  : 0.4656
+Side Chain Topographical Entropy (ASP 116) : 12.2393
+Dihedral 1653 1655 1657 1663  : 0.0657
+Dihedral 1663 1657 1655 1665  : -0.0000
+Dihedral 1653 1655 1657 1659  : 0.0657
+Dihedral 1659 1657 1655 1665  : -0.0000
+Side Chain Topographical Entropy (THR 117) : 0.1315
+Dihedral 1669 1671 1674 1683  : -0.0000
+Dihedral 1674 1683 1681 1679  : -0.0000
+Dihedral 1667 1669 1671 1674  : -0.0000
+Dihedral 1674 1671 1669 1685  : -0.0000
+Dihedral 1677 1679 1681 1683  : -0.0000
+Dihedral 1674 1675 1677 1679  : -0.0000
+Dihedral 1669 1671 1674 1675  : 5.5784
+Dihedral 1671 1674 1675 1677  : -0.0000
+Dihedral 1671 1674 1683 1681  : -0.0000
+Dihedral 1675 1674 1683 1681  : -0.0000
+Dihedral 1677 1675 1674 1683  : -0.0000
+Dihedral 1675 1677 1679 1681  : -0.0000
+Side Chain Topographical Entropy (PHE 118) : 5.5784
+Dihedral 1687 1689 1691 1697  : 4.4863
+Dihedral 1687 1689 1691 1693  : 4.4863
+Dihedral 1697 1691 1689 1699  : 4.4227
+Dihedral 1693 1691 1689 1699  : 4.4227
+Side Chain Topographical Entropy (THR 119) : 17.8179
+Dihedral 1703 1705 1708 1711  : 1.7224
+Dihedral 1708 1705 1703 1721  : 5.6089
+Dihedral 1705 1708 1711 1714  : 4.1582
+Dihedral 1701 1703 1705 1708  : 5.1000
+Dihedral 1708 1711 1714 1717  : 3.1796
+Side Chain Topographical Entropy (LYS 120) : 19.7691
+Dihedral 1733 1727 1725 1737  : 6.4346
+Dihedral 1723 1725 1727 1729  : 6.4048
+Dihedral 1729 1727 1725 1737  : 6.4363
+Dihedral 1723 1725 1727 1733  : 6.3634
+Side Chain Topographical Entropy (VAL 121) : 25.6391
+Dihedral 1746 1743 1741 1759  : 4.5791
+Dihedral 1743 1746 1749 1752  : 5.1037
+Dihedral 1746 1749 1752 1755  : 6.5583
+Dihedral 1739 1741 1743 1746  : 4.6756
+Dihedral 1741 1743 1746 1749  : 0.8118
+Side Chain Topographical Entropy (LYS 122) : 21.7286
+Dihedral 1761 1762 1765 1768  : 4.7117
+Dihedral 1765 1768 1771 1773  : 4.7206
+Dihedral 1759 1761 1762 1765  : 2.7211
+Dihedral 1761 1771 1768 1765  : 3.3821
+Dihedral 1762 1765 1768 1771  : 5.1475
+Side Chain Topographical Entropy (PRO 123) : 20.6830
+Dihedral 1782 1779 1777 1784  : 7.6388
+Dihedral 1775 1777 1779 1782  : 7.6792
+Side Chain Topographical Entropy (SER 124) : 15.3180
+Side Chain Topographical Entropy (ALA 125) : 0.0000
+Side Chain Topographical Entropy (ALA 126) : 0.0000
+Dihedral 1806 1808 1810 1813  : 5.3865
+Dihedral 1813 1810 1808 1815  : 5.3762
+Side Chain Topographical Entropy (CSER 127) : 10.7627
+____________________________________________________________
+Total SC Topog. Entropy                  :        1039.166
+------------------------------------------------------------
+------------------------------------------------------------
+Topographical entropy of BB dihedrals 
+ computed using the pLogp formalism
+------------------------------------------------------------
+Dihedral 690  697  699  701   : -0.0000 (-10000)
+Dihedral 732  731  733  735   : -0.0000 (-10000)
+Dihedral 829  832  834  836   : 0.4270 (-10000)
+Dihedral 388  398  400  402   : -0.0000 (-10000)
+Dihedral 675  674  676  678   : -0.0000 (-10000)
+Dihedral 1133 1140 1142 1144  : 0.1698 (-10000)
+Dihedral 1311 1321 1323 1325  : -0.0000 (-10000)
+Dihedral 65   75   77   79    : -0.0000 (-10000)
+Dihedral 348  363  365  367   : 0.0657 (-10000)
+Dihedral 1464 1475 1477 1479  : -0.0000 (-10000)
+Dihedral 1500 1499 1501 1503  : -0.0000 (-10000)
+Dihedral 155  168  170  172   : -0.0000 (-10000)
+Dihedral 472  471  473  475   : 0.0657 (-10000)
+Dihedral 826  825  827  829   : -0.0000 (-10000)
+Dihedral 701  707  709  719   : 0.0657 (-10000)
+Dihedral 1655 1665 1667 1669  : -0.0000 (-10000)
+Dihedral 1418 1425 1427 1429  : -0.0000 (-10000)
+Dihedral 722  721  723  725   : 0.0657 (-10000)
+Dihedral 1060 1067 1069 1071  : -0.0000 (-10000)
+Dihedral 590  589  591  593   : -0.0000 (-10000)
+Dihedral 971  970  972  974   : 0.1200 (-10000)
+Dihedral 493  492  494  496   : -0.0000 (-10000)
+Dihedral 1479 1485 1487 1489  : -0.0000 (-10000)
+Dihedral 1202 1201 1203 1205  : -0.0000 (-10000)
+Dihedral 1057 1056 1058 1060  : -0.0000 (-10000)
+Dihedral 1016 1015 1017 1019  : -0.0000 (-10000)
+Dihedral 220  219  221  223   : 0.2168 (-10000)
+Dihedral 1275 1274 1276 1278  : 0.1698 (-10000)
+Dihedral 1168 1185 1187 1189  : -0.0000 (-10000)
+Dihedral 338  344  346  348   : -0.0000 (-10000)
+Dihedral 1619 1622 1624 1626  : 0.0657 (-10000)
+Dihedral 725  731  733  735   : 0.0657 (-10000)
+Dihedral 243  258  260  262   : 0.1200 (-10000)
+Dihedral 1640 1639 1641 1643  : -0.0000 (-10000)
+Dihedral 1165 1164 1166 1168  : 0.1200 (-10000)
+Dihedral 1788 1794 1796 1798  : -0.0000 (-10000)
+Dihedral 943  942  944  946   : 0.0657 (-10000)
+Dihedral 897  896  898  900   : -0.0000 (-10000)
+Dihedral 1130 1129 1131 1133  : 0.3468 (-10000)
+Dihedral 1212 1215 1217 1219  : -0.0000 (-10000)
+Dihedral 768  775  777  779   : -0.0000 (-10000)
+Dihedral 86   96   98   100   : 0.3468 (-10000)
+Dihedral 191  194  196  198   : 0.1200 (-10000)
+Dihedral 630  629  631  633   : -0.0000 (-10000)
+Dihedral 4    10   12   14    : 0.0657 (-10000)
+Dihedral 1689 1699 1701 1703  : -0.0000 (-10000)
+Dihedral 46   61   63   65    : -0.0000 (-10000)
+Dihedral 223  239  241  243   : -0.0000 (-10000)
+Dihedral 1489 1499 1501 1503  : -0.0000 (-10000)
+Dihedral 43   42   44   46    : -0.0000 (-10000)
+Dihedral 1297 1307 1309 1311  : -0.0000 (-10000)
+Dihedral 1244 1250 1252 1254  : 0.3468 (-10000)
+Dihedral 1226 1225 1227 1229  : 0.6476 (-10000)
+Dihedral 1686 1685 1687 1689  : 0.0657 (-10000)
+Dihedral 83   82   84   86    : 0.9414 (-10000)
+Dihedral 1071 1077 1079 1081  : -0.0000 (-10000)
+Dihedral 198  205  207  209   : 0.0657 (-10000)
+Dihedral 1363 1362 1364 1366  : 0.3050 (-10000)
+Dihedral 833  832  834  836   : -0.0000 (-10000)
+Dihedral 6    4    10   12    : 2.5006 (    1)
+Dihedral 1760 1759 1761 1771  : 0.0657 (-10000)
+Dihedral 503  502  504  506   : 0.2617 (-10000)
+Dihedral 1461 1460 1462 1464  : -0.0000 (-10000)
+Dihedral 746  745  747  749   : 0.0657 (-10000)
+Dihedral 449  455  457  459   : 0.0657 (-10000)
+Dihedral 302  305  307  309   : 0.2168 (-10000)
+Dihedral 776  775  777  779   : 0.2617 (-10000)
+Dihedral 807  806  808  810   : -0.0000 (-10000)
+Dihedral 786  796  798  800   : -0.0000 (-10000)
+Dihedral 459  471  473  475   : 0.0657 (-10000)
+Dihedral 1068 1067 1069 1071  : -0.0000 (-10000)
+Dihedral 1426 1425 1427 1429  : 0.4656 (-10000)
+Dihedral 1804 1806 1808 1815  : 3.5317 (  127)
+Dihedral 335  334  336  338   : -0.0000 (-10000)
+Dihedral 1669 1685 1687 1689  : -0.0000 (-10000)
+Dihedral 399  398  400  402   : 0.5405 (-10000)
+Dihedral 1703 1721 1723 1725  : -0.0000 (-10000)
+Dihedral 1785 1784 1786 1788  : 0.1200 (-10000)
+Dihedral 1092 1091 1093 1095  : -0.0000 (-10000)
+Dihedral 609  608  610  612   : -0.0000 (-10000)
+Dihedral 367  377  379  381   : 0.1200 (-10000)
+Dihedral 890  896  898  900   : 0.9414 (-10000)
+Dihedral 1205 1208 1210 1212  : 0.3050 (-10000)
+Dihedral 423  434  436  438   : 0.1698 (-10000)
+Dihedral 482  492  494  496   : 0.0657 (-10000)
+Dihedral 1805 1804 1806 1808  : 0.1698 (-10000)
+Dihedral 1510 1509 1511 1513  : -0.0000 (-10000)
+Dihedral 593  608  610  612   : -0.0000 (-10000)
+Dihedral 1429 1432 1434 1436  : -0.0000 (-10000)
+Dihedral 974  991  993  995   : -0.0000 (-10000)
+Dihedral 758  757  759  761   : -0.0000 (-10000)
+Dihedral 946  956  958  960   : 0.0657 (-10000)
+Dihedral 992  991  993  995   : -0.0000 (-10000)
+Dihedral 1581 1580 1582 1584  : 0.3874 (-10000)
+Dihedral 1189 1201 1203 1205  : 0.1200 (-10000)
+Dihedral 1570 1580 1582 1584  : -0.0000 (-10000)
+Dihedral 1294 1293 1295 1297  : 0.5405 (-10000)
+Dihedral 708  707  709  710   : -0.0000 (-10000)
+Dihedral 719  721  723  725   : -0.0000 (-10000)
+Dihedral 1774 1773 1775 1777  : 0.2617 (-10000)
+Dihedral 345  344  346  348   : 0.5034 (-10000)
+Dihedral 1241 1240 1242 1244  : -0.0000 (-10000)
+Dihedral 1382 1381 1383 1385  : 0.1200 (-10000)
+Dihedral 1033 1039 1041 1043  : -0.0000 (-10000)
+Dihedral 921  920  922  924   : -0.0000 (-10000)
+Dihedral 1144 1147 1149 1151  : 0.0657 (-10000)
+Dihedral 1308 1307 1309 1311  : -0.0000 (-10000)
+Dihedral 26   25   27   29    : -0.0000 (-10000)
+Dihedral 1254 1274 1276 1278  : -0.0000 (-10000)
+Dihedral 479  478  480  482   : 0.1200 (-10000)
+Dihedral 62   61   63   65    : 0.2168 (-10000)
+Dihedral 761  764  766  768   : -0.0000 (-10000)
+Dihedral 1626 1639 1641 1643  : -0.0000 (-10000)
+Dihedral 195  194  196  198   : -0.0000 (-10000)
+Dihedral 97   96   98   100   : -0.0000 (-10000)
+Dihedral 14   25   27   29    : 0.1698 (-10000)
+Dihedral 1652 1651 1653 1655  : 0.0657 (-10000)
+Dihedral 364  363  365  367   : -0.0000 (-10000)
+Dihedral 553  552  554  556   : -0.0000 (-10000)
+Dihedral 1404 1414 1416 1418  : -0.0000 (-10000)
+Dihedral 900  920  922  924   : 0.0657 (-10000)
+Dihedral 1219 1225 1227 1229  : -0.0000 (-10000)
+Dihedral 316  315  317  319   : -0.0000 (-10000)
+Dihedral 1476 1475 1477 1479  : -0.0000 (-10000)
+Dihedral 262  274  276  278   : -0.0000 (-10000)
+Dihedral 152  151  153  155   : -0.0000 (-10000)
+Dihedral 735  745  747  749   : 0.0657 (-10000)
+Dihedral 1109 1129 1131 1133  : -0.0000 (-10000)
+Dihedral 1559 1566 1568 1570  : 0.9720 (-10000)
+Dihedral 278  288  290  292   : -0.0000 (-10000)
+Dihedral 654  653  655  657   : -0.0000 (-10000)
+Dihedral 1666 1665 1667 1669  : 0.1200 (-10000)
+Dihedral 1436 1446 1448 1450  : -0.0000 (-10000)
+Dihedral 328  327  329  331   : 0.1200 (-10000)
+Dihedral 124  141  143  145   : -0.0000 (-10000)
+Dihedral 1804 1806 1808 1810  : 3.8350 (  127)
+Dihedral 309  315  317  319   : -0.0000 (-10000)
+Dihedral 521  528  530  532   : -0.0000 (-10000)
+Dihedral 259  258  260  262   : -0.0000 (-10000)
+Dihedral 800  806  808  810   : -0.0000 (-10000)
+Dihedral 687  686  688  690   : -0.0000 (-10000)
+Dihedral 1401 1400 1402 1404  : -0.0000 (-10000)
+Dihedral 612  622  624  626   : -0.0000 (-10000)
+Dihedral 1385 1400 1402 1404  : -0.0000 (-10000)
+Dihedral 626  629  631  633   : 0.0657 (-10000)
+Dihedral 1643 1651 1653 1655  : -0.0000 (-10000)
+Dihedral 385  384  386  388   : 0.0657 (-10000)
+Dihedral 529  528  530  532   : 0.1698 (-10000)
+Dihedral 1209 1208 1210 1212  : -0.0000 (-10000)
+Dihedral 957  956  958  960   : -0.0000 (-10000)
+Dihedral 1450 1460 1462 1464  : -0.0000 (-10000)
+Dihedral 532  552  554  556   : 0.0657 (-10000)
+Dihedral 1322 1321 1323 1325  : 0.7161 (-10000)
+Dihedral 1760 1759 1761 1762  : -0.0000 (-10000)
+Dihedral 299  298  300  302   : 0.1200 (-10000)
+Dihedral 860  870  872  874   : -0.0000 (-10000)
+Dihedral 1141 1140 1142 1144  : 0.0657 (-10000)
+Dihedral 1616 1615 1617 1619  : 0.0657 (-10000)
+Dihedral 100  120  122  124   : 0.1698 (-10000)
+Dihedral 556  573  575  577   : -0.0000 (-10000)
+Dihedral 1040 1039 1041 1043  : 0.1698 (-10000)
+Dihedral 633  653  655  657   : -0.0000 (-10000)
+Dihedral 1725 1737 1739 1741  : 0.1200 (-10000)
+Dihedral 1795 1794 1796 1798  : 0.1200 (-10000)
+Dihedral 1603 1615 1617 1619  : -0.0000 (-10000)
+Dihedral 240  239  241  243   : 0.1698 (-10000)
+Dihedral 1229 1240 1242 1244  : 0.1698 (-10000)
+Dihedral 701  707  709  710   : 0.3468 (-10000)
+Dihedral 506  517  519  521   : 0.2168 (-10000)
+Dihedral 1106 1105 1107 1109  : -0.0000 (-10000)
+Dihedral 79   82   84   86    : -0.0000 (-10000)
+Dihedral 1798 1804 1806 1808  : -0.0000 (-10000)
+Dihedral 887  886  888  890   : 0.3468 (-10000)
+Dihedral 1534 1533 1535 1537  : -0.0000 (-10000)
+Dihedral 319  327  329  331   : -0.0000 (-10000)
+Dihedral 960  970  972  974   : -0.0000 (-10000)
+Dihedral 381  384  386  388   : -0.0000 (-10000)
+Dihedral 145  151  153  155   : 1.0619 (-10000)
+Dihedral 275  274  276  278   : 0.7495 (-10000)
+Dihedral 1741 1759 1761 1762  : 0.7826 (-10000)
+Dihedral 836  856  858  860   : -0.0000 (-10000)
+Dihedral 1600 1599 1601 1603  : 0.0657 (-10000)
+Dihedral 1722 1721 1723 1725  : 0.1200 (-10000)
+Dihedral 1433 1432 1434 1436  : -0.0000 (-10000)
+Dihedral 1537 1555 1557 1559  : 0.1200 (-10000)
+Dihedral 1043 1056 1058 1060  : 1.0323 (-10000)
+Dihedral 1741 1759 1761 1771  : 0.0657 (-10000)
+Dihedral 1278 1293 1295 1297  : -0.0000 (-10000)
+Dihedral 708  707  709  719   : -0.0000 (-10000)
+Dihedral 29   35   37   39    : 0.1200 (-10000)
+Dihedral 1325 1338 1340 1342  : 0.0657 (-10000)
+Dihedral 874  886  888  890   : -0.0000 (-10000)
+Dihedral 496  502  504  506   : -0.0000 (-10000)
+Dihedral 1251 1250 1252 1254  : -0.0000 (-10000)
+Dihedral 871  870  872  874   : 0.0657 (-10000)
+Dihedral 810  825  827  829   : -0.0000 (-10000)
+Dihedral 1078 1077 1079 1081  : -0.0000 (-10000)
+Dihedral 779  782  784  786   : -0.0000 (-10000)
+Dihedral 518  517  519  521   : -0.0000 (-10000)
+Dihedral 402  419  421  423   : 0.6125 (-10000)
+Dihedral 1342 1362 1364 1366  : -0.0000 (-10000)
+Dihedral 1777 1784 1786 1788  : 0.1200 (-10000)
+Dihedral 1339 1338 1340 1342  : -0.0000 (-10000)
+Dihedral 657  674  676  678   : -0.0000 (-10000)
+Dihedral 1148 1147 1149 1151  : -0.0000 (-10000)
+Dihedral 1771 1773 1775 1777  : -0.0000 (-10000)
+Dihedral 857  856  858  860   : -0.0000 (-10000)
+Dihedral 1186 1185 1187 1189  : -0.0000 (-10000)
+Dihedral 1623 1622 1624 1626  : -0.0000 (-10000)
+Dihedral 438  445  447  449   : -0.0000 (-10000)
+Dihedral 1081 1091 1093 1095  : -0.0000 (-10000)
+Dihedral 765  764  766  768   : 0.2617 (-10000)
+Dihedral 292  298  300  302   : -0.0000 (-10000)
+Dihedral 749  757  759  761   : -0.0000 (-10000)
+Dihedral 1030 1029 1031 1033  : -0.0000 (-10000)
+Dihedral 1447 1446 1448 1450  : 1.9551 (-10000)
+Dihedral 1486 1485 1487 1489  : -0.0000 (-10000)
+Dihedral 1513 1533 1535 1537  : -0.0000 (-10000)
+Dihedral 1738 1737 1739 1741  : -0.0000 (-10000)
+Dihedral 1019 1029 1031 1033  : -0.0000 (-10000)
+Dihedral 995  1015 1017 1019  : 0.1200 (-10000)
+Dihedral 1556 1555 1557 1559  : -0.0000 (-10000)
+Dihedral 1503 1509 1511 1513  : -0.0000 (-10000)
+Dihedral 206  205  207  209   : -0.0000 (-10000)
+Dihedral 188  187  189  191   : 0.3468 (-10000)
+Dihedral 577  589  591  593   : -0.0000 (-10000)
+Dihedral 76   75   77   79    : 0.1200 (-10000)
+Dihedral 924  942  944  946   : 0.1200 (-10000)
+Dihedral 209  219  221  223   : -0.0000 (-10000)
+Dihedral 1567 1566 1568 1570  : -0.0000 (-10000)
+Dihedral 1095 1105 1107 1109  : -0.0000 (-10000)
+Dihedral 698  697  699  701   : 0.2168 (-10000)
+Dihedral 574  573  575  577   : -0.0000 (-10000)
+Dihedral 331  334  336  338   : -0.0000 (-10000)
+Dihedral 420  419  421  423   : -0.0000 (-10000)
+Dihedral 797  796  798  800   : -0.0000 (-10000)
+Dihedral 1151 1164 1166 1168  : -0.0000 (-10000)
+Dihedral 378  377  379  381   : -0.0000 (-10000)
+Dihedral 456  455  457  459   : -0.0000 (-10000)
+Dihedral 1216 1215 1217 1219  : 0.1698 (-10000)
+Dihedral 783  782  784  786   : 0.0657 (-10000)
+Dihedral 11   10   12   14    : 0.2617 (-10000)
+Dihedral 435  434  436  438   : 0.4656 (-10000)
+Dihedral 39   42   44   46    : -0.0000 (-10000)
+Dihedral 623  622  624  626   : -0.0000 (-10000)
+Dihedral 36   35   37   39    : 0.1200 (-10000)
+Dihedral 1415 1414 1416 1418  : 0.3874 (-10000)
+Dihedral 1700 1699 1701 1703  : -0.0000 (-10000)
+Dihedral 172  187  189  191   : 0.1200 (-10000)
+Dihedral 306  305  307  309   : -0.0000 (-10000)
+Dihedral 446  445  447  449   : 0.0657 (-10000)
+Dihedral 169  168  170  172   : -0.0000 (-10000)
+Dihedral 121  120  122  124   : -0.0000 (-10000)
+Dihedral 475  478  480  482   : -0.0000 (-10000)
+Dihedral 1584 1599 1601 1603  : -0.0000 (-10000)
+Dihedral 142  141  143  145   : 0.1698 (-10000)
+Dihedral 1366 1381 1383 1385  : -0.0000 (-10000)
+Dihedral 678  686  688  690   : -0.0000 (-10000)
+Dihedral 289  288  290  292   : -0.0000 (-10000)
+____________________________________________________________
+Total BB Topog. Entropy                  :          35.915
+------------------------------------------------------------
+____________________________________________________________
+Total Entropy                            :        1075.081
+------------------------------------------------------------
