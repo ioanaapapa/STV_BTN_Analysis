@@ -1,0 +1,230 @@
+------------------------------------------------------------
+Topographical entropy of residue side chains 
+ computed using all the dihedrals with pLogp formalism
+------------------------------------------------------------
+Dihedral 4    3    6    7     : -0.0000
+Dihedral 5    4    3    6     : -0.0000
+Dihedral 8    1    2    9     : -0.0000
+Dihedral 10   11   12   13    : 5.5565
+Dihedral 9    10   11   12    : 1.8642
+Dihedral 0    7    6    3     : -0.0000
+Dihedral 0    7    8    1     : 4.1374
+Dihedral 1    2    9    10    : 0.2617
+Dihedral 1    2    6    3     : -0.0000
+Dihedral 11   12   13   15    : 4.7647
+Dihedral 1    2    6    7     : -0.0000
+Dihedral 3    6    2    9     : -0.0000
+Dihedral 11   12   13   14    : -0.0000
+Dihedral 3    4    0    7     : -0.0000
+Dihedral 0    7    6    2     : -0.0000
+Dihedral 0    4    3    6     : -0.0000
+Dihedral 6    2    9    10    : 0.2617
+Dihedral 2    1    8    7     : -0.0000
+Dihedral 7    6    2    9     : -0.0000
+Dihedral 2    6    7    8     : -0.0000
+Dihedral 4    0    7    6     : -0.0000
+Dihedral 2    9    10   11    : 5.5676
+Dihedral 2    6    3    4     : -0.0000
+Dihedral 1    8    7    6     : 4.8329
+Dihedral 3    6    7    8     : 0.5034
+Dihedral 6    2    1    8     : 0.3874
+Dihedral 5    4    0    7     : -0.0000
+Dihedral 4    0    7    8     : -0.0000
+Side Chain Topographical Entropy (BTN 1) : 28.1376
+____________________________________________________________
+Total SC Topog. Entropy                  :          28.138
+------------------------------------------------------------
+------------------------------------------------------------
+Topographical entropy of BB dihedrals 
+ computed using the pLogp formalism
+------------------------------------------------------------
+____________________________________________________________
+Total BB Topog. Entropy                  :           0.000
+------------------------------------------------------------
+____________________________________________________________
+Total Entropy                            :          28.138
+------------------------------------------------------------
+------------------------------------------------------------
+Topographical entropy of residue side chains 
+ computed using all the dihedrals with pLogp formalism
+------------------------------------------------------------
+Dihedral 6    2    9    10    : 0.1200
+Dihedral 1    2    6    7     : -0.0000
+Dihedral 11   12   13   14    : -0.0000
+Dihedral 3    4    0    7     : -0.0000
+Dihedral 1    8    7    6     : 3.2597
+Dihedral 6    2    1    8     : 0.5768
+Dihedral 2    1    8    7     : 0.1200
+Dihedral 0    7    8    1     : 5.1738
+Dihedral 3    6    7    8     : 0.8151
+Dihedral 7    6    2    9     : -0.0000
+Dihedral 1    2    9    10    : 0.1200
+Dihedral 2    6    7    8     : 0.0657
+Dihedral 4    3    6    7     : -0.0000
+Dihedral 5    4    0    7     : -0.0000
+Dihedral 0    4    3    6     : -0.0000
+Dihedral 4    0    7    6     : -0.0000
+Dihedral 5    4    3    6     : -0.0000
+Dihedral 4    0    7    8     : -0.0000
+Dihedral 2    6    3    4     : -0.0000
+Dihedral 0    7    6    2     : -0.0000
+Dihedral 10   11   12   13    : 3.4417
+Dihedral 0    7    6    3     : -0.0000
+Dihedral 2    9    10   11    : 3.4710
+Dihedral 3    6    2    9     : -0.0000
+Dihedral 1    2    6    3     : -0.0000
+Dihedral 8    1    2    9     : 0.1200
+Dihedral 9    10   11   12    : 1.3698
+Dihedral 11   12   13   15    : 4.9916
+Side Chain Topographical Entropy (BTN 1) : 23.6451
+____________________________________________________________
+Total SC Topog. Entropy                  :          23.645
+------------------------------------------------------------
+------------------------------------------------------------
+Topographical entropy of BB dihedrals 
+ computed using the pLogp formalism
+------------------------------------------------------------
+____________________________________________________________
+Total BB Topog. Entropy                  :           0.000
+------------------------------------------------------------
+____________________________________________________________
+Total Entropy                            :          23.645
+------------------------------------------------------------
+------------------------------------------------------------
+Topographical entropy of residue side chains 
+ computed using all the dihedrals with pLogp formalism
+------------------------------------------------------------
+Dihedral 8    1    2    9     : 0.3468
+Dihedral 6    2    9    10    : 0.1698
+Dihedral 6    2    1    8     : 0.5405
+Dihedral 5    4    0    7     : -0.0000
+Dihedral 11   12   13   15    : 4.9222
+Dihedral 4    0    7    6     : -0.0000
+Dihedral 5    4    3    6     : -0.0000
+Dihedral 2    9    10   11    : 2.7931
+Dihedral 7    6    2    9     : -0.0000
+Dihedral 10   11   12   13    : 2.7752
+Dihedral 4    0    7    8     : -0.0000
+Dihedral 2    1    8    7     : 0.0657
+Dihedral 1    8    7    6     : 3.2752
+Dihedral 1    2    9    10    : 0.1698
+Dihedral 0    4    3    6     : -0.0000
+Dihedral 0    7    6    2     : -0.0000
+Dihedral 0    7    8    1     : 5.3132
+Dihedral 4    3    6    7     : -0.0000
+Dihedral 0    7    6    3     : 0.0657
+Dihedral 2    6    7    8     : 0.2617
+Dihedral 9    10   11   12    : 0.6821
+Dihedral 3    6    2    9     : -0.0000
+Dihedral 1    2    6    7     : -0.0000
+Dihedral 2    6    3    4     : -0.0000
+Dihedral 11   12   13   14    : -0.0000
+Dihedral 3    4    0    7     : -0.0000
+Dihedral 3    6    7    8     : 1.3161
+Dihedral 1    2    6    3     : -0.0000
+Side Chain Topographical Entropy (BTN 1) : 22.6972
+____________________________________________________________
+Total SC Topog. Entropy                  :          22.697
+------------------------------------------------------------
+------------------------------------------------------------
+Topographical entropy of BB dihedrals 
+ computed using the pLogp formalism
+------------------------------------------------------------
+____________________________________________________________
+Total BB Topog. Entropy                  :           0.000
+------------------------------------------------------------
+____________________________________________________________
+Total Entropy                            :          22.697
+------------------------------------------------------------
+------------------------------------------------------------
+Topographical entropy of residue side chains 
+ computed using all the dihedrals with pLogp formalism
+------------------------------------------------------------
+Dihedral 1    2    6    7     : -0.0000
+Dihedral 9    10   11   12    : 0.5768
+Dihedral 8    1    2    9     : 0.0657
+Dihedral 0    4    3    6     : -0.0000
+Dihedral 3    6    7    8     : 1.2337
+Dihedral 4    3    6    7     : -0.0000
+Dihedral 10   11   12   13    : 1.6165
+Dihedral 5    4    0    7     : -0.0000
+Dihedral 3    4    0    7     : -0.0000
+Dihedral 1    8    7    6     : 3.2752
+Dihedral 3    6    2    9     : -0.0000
+Dihedral 5    4    3    6     : -0.0000
+Dihedral 4    0    7    6     : -0.0000
+Dihedral 2    6    7    8     : 0.1698
+Dihedral 7    6    2    9     : -0.0000
+Dihedral 6    2    1    8     : 0.4656
+Dihedral 0    7    8    1     : 5.3676
+Dihedral 6    2    9    10    : 0.1200
+Dihedral 2    6    3    4     : -0.0000
+Dihedral 4    0    7    8     : -0.0000
+Dihedral 11   12   13   14    : -0.0000
+Dihedral 0    7    6    3     : 0.0657
+Dihedral 0    7    6    2     : -0.0000
+Dihedral 1    2    9    10    : 0.1200
+Dihedral 11   12   13   15    : 4.6010
+Dihedral 1    2    6    3     : -0.0000
+Dihedral 2    1    8    7     : -0.0000
+Dihedral 2    9    10   11    : 1.6260
+Side Chain Topographical Entropy (BTN 1) : 19.3037
+____________________________________________________________
+Total SC Topog. Entropy                  :          19.304
+------------------------------------------------------------
+------------------------------------------------------------
+Topographical entropy of BB dihedrals 
+ computed using the pLogp formalism
+------------------------------------------------------------
+____________________________________________________________
+Total BB Topog. Entropy                  :           0.000
+------------------------------------------------------------
+____________________________________________________________
+Total Entropy                            :          19.304
+------------------------------------------------------------
+------------------------------------------------------------
+Topographical entropy of residue side chains 
+ computed using all the dihedrals with pLogp formalism
+------------------------------------------------------------
+Dihedral 11   12   13   14    : -0.0000
+Dihedral 4    0    7    6     : -0.0000
+Dihedral 2    9    10   11    : 2.4768
+Dihedral 0    7    8    1     : 5.1274
+Dihedral 5    4    0    7     : -0.0000
+Dihedral 3    6    2    9     : -0.0000
+Dihedral 1    2    9    10    : -0.0000
+Dihedral 1    2    6    7     : -0.0000
+Dihedral 6    2    1    8     : 0.8790
+Dihedral 2    1    8    7     : -0.0000
+Dihedral 0    7    6    2     : -0.0000
+Dihedral 2    6    3    4     : -0.0000
+Dihedral 1    2    6    3     : -0.0000
+Dihedral 3    4    0    7     : -0.0000
+Dihedral 7    6    2    9     : -0.0000
+Dihedral 0    7    6    3     : -0.0000
+Dihedral 9    10   11   12    : 0.3468
+Dihedral 4    0    7    8     : -0.0000
+Dihedral 4    3    6    7     : -0.0000
+Dihedral 11   12   13   15    : 4.6386
+Dihedral 1    8    7    6     : 3.2907
+Dihedral 8    1    2    9     : 0.2617
+Dihedral 6    2    9    10    : -0.0000
+Dihedral 2    6    7    8     : 0.2168
+Dihedral 0    4    3    6     : -0.0000
+Dihedral 3    6    7    8     : 1.1491
+Dihedral 5    4    3    6     : -0.0000
+Dihedral 10   11   12   13    : 2.4573
+Side Chain Topographical Entropy (BTN 1) : 20.8442
+____________________________________________________________
+Total SC Topog. Entropy                  :          20.844
+------------------------------------------------------------
+------------------------------------------------------------
+Topographical entropy of BB dihedrals 
+ computed using the pLogp formalism
+------------------------------------------------------------
+____________________________________________________________
+Total BB Topog. Entropy                  :           0.000
+------------------------------------------------------------
+____________________________________________________________
+Total Entropy                            :          20.844
+------------------------------------------------------------
