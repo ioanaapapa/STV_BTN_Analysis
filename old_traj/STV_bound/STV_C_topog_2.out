@@ -1,0 +1,720 @@
+------------------------------------------------------------
+Topographical entropy of residue side chains 
+computed using all the dihedrals with correlation/pLogp formalism
+------------------------------------------------------------
+Side Chain Topographical Entropy from corr. pLogP method (NALA 1) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLU 2) : 21.3653
+Side Chain Topographical Entropy from corr. pLogP method (ALA 3) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 4) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ILE 5) : 0.8448
+Side Chain Topographical Entropy from corr. pLogP method (THR 6) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 7) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 8) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TRP 9) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TYR 10) : 5.7955
+Side Chain Topographical Entropy from corr. pLogP method (ASN 11) : 3.3387
+Side Chain Topographical Entropy from corr. pLogP method (GLN 12) : 19.1492
+Side Chain Topographical Entropy from corr. pLogP method (LEU 13) : 6.9775
+Side Chain Topographical Entropy from corr. pLogP method (GLY 14) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (SER 15) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (THR 16) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (PHE 17) : 0.2168
+Side Chain Topographical Entropy from corr. pLogP method (ILE 18) : 6.3687
+Side Chain Topographical Entropy from corr. pLogP method (VAL 19) : 1.1491
+Side Chain Topographical Entropy from corr. pLogP method (THR 20) : 9.0220
+Side Chain Topographical Entropy from corr. pLogP method (ALA 21) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 22) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 23) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ASP 24) : 17.0129
+Side Chain Topographical Entropy from corr. pLogP method (GLY 25) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 26) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LEU 27) : 8.1857
+Side Chain Topographical Entropy from corr. pLogP method (THR 28) : 8.2375
+Side Chain Topographical Entropy from corr. pLogP method (GLY 29) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 30) : 0.1698
+Side Chain Topographical Entropy from corr. pLogP method (TYR 31) : 1.5773
+Side Chain Topographical Entropy from corr. pLogP method (GLU 32) : 15.0445
+Side Chain Topographical Entropy from corr. pLogP method (SER 33) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (ALA 34) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (VAL 35) : 0.2355
+Side Chain Topographical Entropy from corr. pLogP method (GLY 36) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ASN 37) : 12.5484
+Side Chain Topographical Entropy from corr. pLogP method (ALA 38) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLU 39) : 17.2164
+Side Chain Topographical Entropy from corr. pLogP method (SER 40) : 0.2168
+Side Chain Topographical Entropy from corr. pLogP method (ARG 41) : 13.9253
+Side Chain Topographical Entropy from corr. pLogP method (TYR 42) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (VAL 43) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LEU 44) : 8.8542
+Side Chain Topographical Entropy from corr. pLogP method (THR 45) : 8.7995
+Side Chain Topographical Entropy from corr. pLogP method (GLY 46) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ARG 47) : 0.3274
+Side Chain Topographical Entropy from corr. pLogP method (TYR 48) : 2.8130
+Side Chain Topographical Entropy from corr. pLogP method (ASP 49) : 2.7931
+Side Chain Topographical Entropy from corr. pLogP method (SER 50) : 2.4732
+Side Chain Topographical Entropy from corr. pLogP method (ALA 51) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (PRO 52) : 10.4190
+Side Chain Topographical Entropy from corr. pLogP method (ALA 53) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 54) : 3.8015
+Side Chain Topographical Entropy from corr. pLogP method (ASP 55) : 9.4020
+Side Chain Topographical Entropy from corr. pLogP method (GLY 56) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (SER 57) : 3.2907
+Side Chain Topographical Entropy from corr. pLogP method (GLY 58) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 59) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 60) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LEU 61) : 7.3788
+Side Chain Topographical Entropy from corr. pLogP method (GLY 62) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TRP 63) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 64) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (VAL 65) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 66) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TRP 67) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LYS 68) : 10.1947
+Side Chain Topographical Entropy from corr. pLogP method (ASN 69) : 1.0323
+Side Chain Topographical Entropy from corr. pLogP method (ASN 70) : 14.5083
+Side Chain Topographical Entropy from corr. pLogP method (TYR 71) : 8.0992
+Side Chain Topographical Entropy from corr. pLogP method (ARG 72) : 10.5291
+Side Chain Topographical Entropy from corr. pLogP method (ASN 73) : 0.1698
+Side Chain Topographical Entropy from corr. pLogP method (ALA 74) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (HID 75) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (SER 76) : 7.1582
+Side Chain Topographical Entropy from corr. pLogP method (ALA 77) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 78) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (THR 79) : 3.9320
+Side Chain Topographical Entropy from corr. pLogP method (TRP 80) : 1.6012
+Side Chain Topographical Entropy from corr. pLogP method (SER 81) : 4.4019
+Side Chain Topographical Entropy from corr. pLogP method (GLY 82) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLN 83) : 10.5400
+Side Chain Topographical Entropy from corr. pLogP method (TYR 84) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (VAL 85) : 2.5645
+Side Chain Topographical Entropy from corr. pLogP method (GLY 86) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 87) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 88) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLU 89) : 16.5335
+Side Chain Topographical Entropy from corr. pLogP method (ALA 90) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ARG 91) : 10.2744
+Side Chain Topographical Entropy from corr. pLogP method (ILE 92) : 0.2168
+Side Chain Topographical Entropy from corr. pLogP method (ASN 93) : 5.0680
+Side Chain Topographical Entropy from corr. pLogP method (THR 94) : 0.1200
+Side Chain Topographical Entropy from corr. pLogP method (GLN 95) : 3.1573
+Side Chain Topographical Entropy from corr. pLogP method (TRP 96) : 0.4656
+Side Chain Topographical Entropy from corr. pLogP method (LEU 97) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (LEU 98) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (THR 99) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (SER 100) : 8.2735
+Side Chain Topographical Entropy from corr. pLogP method (GLY 101) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 102) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 103) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (GLU 104) : 21.1397
+Side Chain Topographical Entropy from corr. pLogP method (ALA 105) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ASN 106) : 5.3598
+Side Chain Topographical Entropy from corr. pLogP method (ALA 107) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TRP 108) : 5.2550
+Side Chain Topographical Entropy from corr. pLogP method (LYS 109) : 15.5555
+Side Chain Topographical Entropy from corr. pLogP method (SER 110) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (THR 111) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (LEU 112) : 3.0934
+Side Chain Topographical Entropy from corr. pLogP method (VAL 113) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 114) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (HID 115) : 5.5373
+Side Chain Topographical Entropy from corr. pLogP method (ASP 116) : 4.1326
+Side Chain Topographical Entropy from corr. pLogP method (THR 117) : 4.4330
+Side Chain Topographical Entropy from corr. pLogP method (PHE 118) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 119) : 5.3408
+Side Chain Topographical Entropy from corr. pLogP method (LYS 120) : 9.6161
+Side Chain Topographical Entropy from corr. pLogP method (VAL 121) : 5.4831
+Side Chain Topographical Entropy from corr. pLogP method (LYS 122) : 15.5357
+Side Chain Topographical Entropy from corr. pLogP method (PRO 123) : 13.6630
+Side Chain Topographical Entropy from corr. pLogP method (SER 124) : 9.0101
+Side Chain Topographical Entropy from corr. pLogP method (ALA 125) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 126) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (CSER 127) : 5.9230
+____________________________________________________________
+Total SC Topog. Entropy (corr. pLogP)    :         477.461
+------------------------------------------------------------
+------------------------------------------------------------
+Topographical entropy of BB dihedrals 
+computed using the correlated-pLogp formalism
+------------------------------------------------------------
+____________________________________________________________
+Total BB Topog. Entropy (corr. pLogP)    :          17.601
+------------------------------------------------------------
+____________________________________________________________
+Total Entropy                            :         495.062
+------------------------------------------------------------
+------------------------------------------------------------
+Topographical entropy of residue side chains 
+computed using all the dihedrals with correlation/pLogp formalism
+------------------------------------------------------------
+Side Chain Topographical Entropy from corr. pLogP method (NALA 1) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLU 2) : 17.6490
+Side Chain Topographical Entropy from corr. pLogP method (ALA 3) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 4) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ILE 5) : 1.0321
+Side Chain Topographical Entropy from corr. pLogP method (THR 6) : 0.3050
+Side Chain Topographical Entropy from corr. pLogP method (GLY 7) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 8) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TRP 9) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TYR 10) : 5.6736
+Side Chain Topographical Entropy from corr. pLogP method (ASN 11) : 5.2903
+Side Chain Topographical Entropy from corr. pLogP method (GLN 12) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LEU 13) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (GLY 14) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (SER 15) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (THR 16) : 0.3050
+Side Chain Topographical Entropy from corr. pLogP method (PHE 17) : 7.6017
+Side Chain Topographical Entropy from corr. pLogP method (ILE 18) : 2.9749
+Side Chain Topographical Entropy from corr. pLogP method (VAL 19) : 1.2889
+Side Chain Topographical Entropy from corr. pLogP method (THR 20) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (ALA 21) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 22) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 23) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ASP 24) : 15.1781
+Side Chain Topographical Entropy from corr. pLogP method (GLY 25) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 26) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LEU 27) : 9.1319
+Side Chain Topographical Entropy from corr. pLogP method (THR 28) : 8.9083
+Side Chain Topographical Entropy from corr. pLogP method (GLY 29) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 30) : 0.9414
+Side Chain Topographical Entropy from corr. pLogP method (TYR 31) : 4.6237
+Side Chain Topographical Entropy from corr. pLogP method (GLU 32) : 11.3070
+Side Chain Topographical Entropy from corr. pLogP method (SER 33) : 0.1200
+Side Chain Topographical Entropy from corr. pLogP method (ALA 34) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (VAL 35) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (GLY 36) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ASN 37) : 11.5442
+Side Chain Topographical Entropy from corr. pLogP method (ALA 38) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLU 39) : 16.8928
+Side Chain Topographical Entropy from corr. pLogP method (SER 40) : 0.1698
+Side Chain Topographical Entropy from corr. pLogP method (ARG 41) : 12.1378
+Side Chain Topographical Entropy from corr. pLogP method (TYR 42) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (VAL 43) : 0.2168
+Side Chain Topographical Entropy from corr. pLogP method (LEU 44) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (THR 45) : 0.1200
+Side Chain Topographical Entropy from corr. pLogP method (GLY 46) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ARG 47) : 0.2168
+Side Chain Topographical Entropy from corr. pLogP method (TYR 48) : 3.5370
+Side Chain Topographical Entropy from corr. pLogP method (ASP 49) : 0.7161
+Side Chain Topographical Entropy from corr. pLogP method (SER 50) : 1.4303
+Side Chain Topographical Entropy from corr. pLogP method (ALA 51) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (PRO 52) : 10.3528
+Side Chain Topographical Entropy from corr. pLogP method (ALA 53) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 54) : 8.9834
+Side Chain Topographical Entropy from corr. pLogP method (ASP 55) : 5.3632
+Side Chain Topographical Entropy from corr. pLogP method (GLY 56) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (SER 57) : 0.5034
+Side Chain Topographical Entropy from corr. pLogP method (GLY 58) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 59) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 60) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LEU 61) : 7.8860
+Side Chain Topographical Entropy from corr. pLogP method (GLY 62) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TRP 63) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 64) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (VAL 65) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 66) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TRP 67) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LYS 68) : 10.6025
+Side Chain Topographical Entropy from corr. pLogP method (ASN 69) : 7.1066
+Side Chain Topographical Entropy from corr. pLogP method (ASN 70) : 14.6469
+Side Chain Topographical Entropy from corr. pLogP method (TYR 71) : 7.6382
+Side Chain Topographical Entropy from corr. pLogP method (ARG 72) : 15.0574
+Side Chain Topographical Entropy from corr. pLogP method (ASN 73) : 0.9104
+Side Chain Topographical Entropy from corr. pLogP method (ALA 74) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (HID 75) : 1.4488
+Side Chain Topographical Entropy from corr. pLogP method (SER 76) : 1.7159
+Side Chain Topographical Entropy from corr. pLogP method (ALA 77) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 78) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (THR 79) : 8.3181
+Side Chain Topographical Entropy from corr. pLogP method (TRP 80) : 1.9099
+Side Chain Topographical Entropy from corr. pLogP method (SER 81) : 3.0262
+Side Chain Topographical Entropy from corr. pLogP method (GLY 82) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLN 83) : 11.7466
+Side Chain Topographical Entropy from corr. pLogP method (TYR 84) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (VAL 85) : 2.2552
+Side Chain Topographical Entropy from corr. pLogP method (GLY 86) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 87) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 88) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLU 89) : 18.5404
+Side Chain Topographical Entropy from corr. pLogP method (ALA 90) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ARG 91) : 12.4798
+Side Chain Topographical Entropy from corr. pLogP method (ILE 92) : 1.0313
+Side Chain Topographical Entropy from corr. pLogP method (ASN 93) : 1.6844
+Side Chain Topographical Entropy from corr. pLogP method (THR 94) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLN 95) : 3.7409
+Side Chain Topographical Entropy from corr. pLogP method (TRP 96) : 0.3468
+Side Chain Topographical Entropy from corr. pLogP method (LEU 97) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LEU 98) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 99) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (SER 100) : 8.0951
+Side Chain Topographical Entropy from corr. pLogP method (GLY 101) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 102) : 5.7416
+Side Chain Topographical Entropy from corr. pLogP method (THR 103) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLU 104) : 22.8338
+Side Chain Topographical Entropy from corr. pLogP method (ALA 105) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ASN 106) : 3.1542
+Side Chain Topographical Entropy from corr. pLogP method (ALA 107) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TRP 108) : 5.3883
+Side Chain Topographical Entropy from corr. pLogP method (LYS 109) : 11.1022
+Side Chain Topographical Entropy from corr. pLogP method (SER 110) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (THR 111) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LEU 112) : 2.6540
+Side Chain Topographical Entropy from corr. pLogP method (VAL 113) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (GLY 114) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (HID 115) : 6.1977
+Side Chain Topographical Entropy from corr. pLogP method (ASP 116) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 117) : 3.6418
+Side Chain Topographical Entropy from corr. pLogP method (PHE 118) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 119) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LYS 120) : 9.7178
+Side Chain Topographical Entropy from corr. pLogP method (VAL 121) : 3.5633
+Side Chain Topographical Entropy from corr. pLogP method (LYS 122) : 17.5650
+Side Chain Topographical Entropy from corr. pLogP method (PRO 123) : 14.3038
+Side Chain Topographical Entropy from corr. pLogP method (SER 124) : 8.8708
+Side Chain Topographical Entropy from corr. pLogP method (ALA 125) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 126) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (CSER 127) : 6.1224
+____________________________________________________________
+Total SC Topog. Entropy (corr. pLogP)    :         426.085
+------------------------------------------------------------
+------------------------------------------------------------
+Topographical entropy of BB dihedrals 
+computed using the correlated-pLogp formalism
+------------------------------------------------------------
+____________________________________________________________
+Total BB Topog. Entropy (corr. pLogP)    :          14.388
+------------------------------------------------------------
+____________________________________________________________
+Total Entropy                            :         440.473
+------------------------------------------------------------
+------------------------------------------------------------
+Topographical entropy of residue side chains 
+computed using all the dihedrals with correlation/pLogp formalism
+------------------------------------------------------------
+Side Chain Topographical Entropy from corr. pLogP method (NALA 1) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLU 2) : 22.2463
+Side Chain Topographical Entropy from corr. pLogP method (ALA 3) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 4) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ILE 5) : 7.9332
+Side Chain Topographical Entropy from corr. pLogP method (THR 6) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 7) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 8) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (TRP 9) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TYR 10) : 5.4192
+Side Chain Topographical Entropy from corr. pLogP method (ASN 11) : 4.1662
+Side Chain Topographical Entropy from corr. pLogP method (GLN 12) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (LEU 13) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (GLY 14) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (SER 15) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 16) : 0.1698
+Side Chain Topographical Entropy from corr. pLogP method (PHE 17) : 5.5889
+Side Chain Topographical Entropy from corr. pLogP method (ILE 18) : 1.3747
+Side Chain Topographical Entropy from corr. pLogP method (VAL 19) : 0.8151
+Side Chain Topographical Entropy from corr. pLogP method (THR 20) : 6.9429
+Side Chain Topographical Entropy from corr. pLogP method (ALA 21) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 22) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 23) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ASP 24) : 12.9517
+Side Chain Topographical Entropy from corr. pLogP method (GLY 25) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 26) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LEU 27) : 8.9498
+Side Chain Topographical Entropy from corr. pLogP method (THR 28) : 7.4528
+Side Chain Topographical Entropy from corr. pLogP method (GLY 29) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 30) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TYR 31) : 5.3857
+Side Chain Topographical Entropy from corr. pLogP method (GLU 32) : 9.6928
+Side Chain Topographical Entropy from corr. pLogP method (SER 33) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 34) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (VAL 35) : 0.1200
+Side Chain Topographical Entropy from corr. pLogP method (GLY 36) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ASN 37) : 13.4145
+Side Chain Topographical Entropy from corr. pLogP method (ALA 38) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLU 39) : 14.6507
+Side Chain Topographical Entropy from corr. pLogP method (SER 40) : 0.8790
+Side Chain Topographical Entropy from corr. pLogP method (ARG 41) : 6.4112
+Side Chain Topographical Entropy from corr. pLogP method (TYR 42) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (VAL 43) : 1.4747
+Side Chain Topographical Entropy from corr. pLogP method (LEU 44) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 45) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (GLY 46) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ARG 47) : 0.1698
+Side Chain Topographical Entropy from corr. pLogP method (TYR 48) : 7.7973
+Side Chain Topographical Entropy from corr. pLogP method (ASP 49) : 1.8597
+Side Chain Topographical Entropy from corr. pLogP method (SER 50) : 6.0853
+Side Chain Topographical Entropy from corr. pLogP method (ALA 51) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (PRO 52) : 10.5063
+Side Chain Topographical Entropy from corr. pLogP method (ALA 53) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 54) : 5.7428
+Side Chain Topographical Entropy from corr. pLogP method (ASP 55) : 7.1515
+Side Chain Topographical Entropy from corr. pLogP method (GLY 56) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (SER 57) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 58) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 59) : 3.3651
+Side Chain Topographical Entropy from corr. pLogP method (ALA 60) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LEU 61) : 6.3587
+Side Chain Topographical Entropy from corr. pLogP method (GLY 62) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TRP 63) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 64) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (VAL 65) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (ALA 66) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TRP 67) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LYS 68) : 8.3787
+Side Chain Topographical Entropy from corr. pLogP method (ASN 69) : 0.9129
+Side Chain Topographical Entropy from corr. pLogP method (ASN 70) : 14.2043
+Side Chain Topographical Entropy from corr. pLogP method (TYR 71) : 7.9405
+Side Chain Topographical Entropy from corr. pLogP method (ARG 72) : 11.3416
+Side Chain Topographical Entropy from corr. pLogP method (ASN 73) : 0.7322
+Side Chain Topographical Entropy from corr. pLogP method (ALA 74) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (HID 75) : 1.5512
+Side Chain Topographical Entropy from corr. pLogP method (SER 76) : 6.8569
+Side Chain Topographical Entropy from corr. pLogP method (ALA 77) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 78) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (THR 79) : 5.9030
+Side Chain Topographical Entropy from corr. pLogP method (TRP 80) : 1.5259
+Side Chain Topographical Entropy from corr. pLogP method (SER 81) : 3.3215
+Side Chain Topographical Entropy from corr. pLogP method (GLY 82) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLN 83) : 11.1721
+Side Chain Topographical Entropy from corr. pLogP method (TYR 84) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (VAL 85) : 1.2058
+Side Chain Topographical Entropy from corr. pLogP method (GLY 86) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 87) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 88) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLU 89) : 22.1573
+Side Chain Topographical Entropy from corr. pLogP method (ALA 90) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ARG 91) : 1.4834
+Side Chain Topographical Entropy from corr. pLogP method (ILE 92) : 0.6768
+Side Chain Topographical Entropy from corr. pLogP method (ASN 93) : 1.4352
+Side Chain Topographical Entropy from corr. pLogP method (THR 94) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLN 95) : 1.2614
+Side Chain Topographical Entropy from corr. pLogP method (TRP 96) : 0.3874
+Side Chain Topographical Entropy from corr. pLogP method (LEU 97) : 0.1315
+Side Chain Topographical Entropy from corr. pLogP method (LEU 98) : 2.4962
+Side Chain Topographical Entropy from corr. pLogP method (THR 99) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (SER 100) : 5.7631
+Side Chain Topographical Entropy from corr. pLogP method (GLY 101) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 102) : 5.3676
+Side Chain Topographical Entropy from corr. pLogP method (THR 103) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLU 104) : 19.8518
+Side Chain Topographical Entropy from corr. pLogP method (ALA 105) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ASN 106) : 4.2049
+Side Chain Topographical Entropy from corr. pLogP method (ALA 107) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TRP 108) : 5.3934
+Side Chain Topographical Entropy from corr. pLogP method (LYS 109) : 18.5367
+Side Chain Topographical Entropy from corr. pLogP method (SER 110) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 111) : 0.1200
+Side Chain Topographical Entropy from corr. pLogP method (LEU 112) : 2.8748
+Side Chain Topographical Entropy from corr. pLogP method (VAL 113) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 114) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (HID 115) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (ASP 116) : 0.1698
+Side Chain Topographical Entropy from corr. pLogP method (THR 117) : 1.3964
+Side Chain Topographical Entropy from corr. pLogP method (PHE 118) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 119) : 3.0175
+Side Chain Topographical Entropy from corr. pLogP method (LYS 120) : 12.2928
+Side Chain Topographical Entropy from corr. pLogP method (VAL 121) : 3.2530
+Side Chain Topographical Entropy from corr. pLogP method (LYS 122) : 14.8528
+Side Chain Topographical Entropy from corr. pLogP method (PRO 123) : 13.2507
+Side Chain Topographical Entropy from corr. pLogP method (SER 124) : 5.7537
+Side Chain Topographical Entropy from corr. pLogP method (ALA 125) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 126) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (CSER 127) : 5.3337
+____________________________________________________________
+Total SC Topog. Entropy (corr. pLogP)    :         412.044
+------------------------------------------------------------
+------------------------------------------------------------
+Topographical entropy of BB dihedrals 
+computed using the correlated-pLogp formalism
+------------------------------------------------------------
+____________________________________________________________
+Total BB Topog. Entropy (corr. pLogP)    :          16.654
+------------------------------------------------------------
+____________________________________________________________
+Total Entropy                            :         428.699
+------------------------------------------------------------
+------------------------------------------------------------
+Topographical entropy of residue side chains 
+computed using all the dihedrals with correlation/pLogp formalism
+------------------------------------------------------------
+Side Chain Topographical Entropy from corr. pLogP method (NALA 1) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLU 2) : 21.4388
+Side Chain Topographical Entropy from corr. pLogP method (ALA 3) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 4) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ILE 5) : 0.6514
+Side Chain Topographical Entropy from corr. pLogP method (THR 6) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 7) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 8) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (TRP 9) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TYR 10) : 5.5957
+Side Chain Topographical Entropy from corr. pLogP method (ASN 11) : 4.5589
+Side Chain Topographical Entropy from corr. pLogP method (GLN 12) : 0.1315
+Side Chain Topographical Entropy from corr. pLogP method (LEU 13) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 14) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (SER 15) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 16) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (PHE 17) : 5.5061
+Side Chain Topographical Entropy from corr. pLogP method (ILE 18) : 1.6188
+Side Chain Topographical Entropy from corr. pLogP method (VAL 19) : 0.2168
+Side Chain Topographical Entropy from corr. pLogP method (THR 20) : 7.0155
+Side Chain Topographical Entropy from corr. pLogP method (ALA 21) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 22) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 23) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ASP 24) : 16.8815
+Side Chain Topographical Entropy from corr. pLogP method (GLY 25) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 26) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LEU 27) : 4.5923
+Side Chain Topographical Entropy from corr. pLogP method (THR 28) : 5.0984
+Side Chain Topographical Entropy from corr. pLogP method (GLY 29) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 30) : 8.4192
+Side Chain Topographical Entropy from corr. pLogP method (TYR 31) : 5.0068
+Side Chain Topographical Entropy from corr. pLogP method (GLU 32) : 11.0052
+Side Chain Topographical Entropy from corr. pLogP method (SER 33) : 0.1200
+Side Chain Topographical Entropy from corr. pLogP method (ALA 34) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (VAL 35) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (GLY 36) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ASN 37) : 12.8180
+Side Chain Topographical Entropy from corr. pLogP method (ALA 38) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLU 39) : 16.3635
+Side Chain Topographical Entropy from corr. pLogP method (SER 40) : 0.7826
+Side Chain Topographical Entropy from corr. pLogP method (ARG 41) : 7.3006
+Side Chain Topographical Entropy from corr. pLogP method (TYR 42) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (VAL 43) : 1.7708
+Side Chain Topographical Entropy from corr. pLogP method (LEU 44) : 7.6858
+Side Chain Topographical Entropy from corr. pLogP method (THR 45) : 3.8014
+Side Chain Topographical Entropy from corr. pLogP method (GLY 46) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ARG 47) : 0.2617
+Side Chain Topographical Entropy from corr. pLogP method (TYR 48) : 2.9757
+Side Chain Topographical Entropy from corr. pLogP method (ASP 49) : 0.2168
+Side Chain Topographical Entropy from corr. pLogP method (SER 50) : 0.9658
+Side Chain Topographical Entropy from corr. pLogP method (ALA 51) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (PRO 52) : 9.0030
+Side Chain Topographical Entropy from corr. pLogP method (ALA 53) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 54) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ASP 55) : 6.4518
+Side Chain Topographical Entropy from corr. pLogP method (GLY 56) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (SER 57) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 58) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 59) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 60) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LEU 61) : 6.8006
+Side Chain Topographical Entropy from corr. pLogP method (GLY 62) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TRP 63) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 64) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (VAL 65) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 66) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TRP 67) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LYS 68) : 10.8414
+Side Chain Topographical Entropy from corr. pLogP method (ASN 69) : 1.8124
+Side Chain Topographical Entropy from corr. pLogP method (ASN 70) : 14.4327
+Side Chain Topographical Entropy from corr. pLogP method (TYR 71) : 9.9828
+Side Chain Topographical Entropy from corr. pLogP method (ARG 72) : 13.6595
+Side Chain Topographical Entropy from corr. pLogP method (ASN 73) : 0.2825
+Side Chain Topographical Entropy from corr. pLogP method (ALA 74) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (HID 75) : 0.1200
+Side Chain Topographical Entropy from corr. pLogP method (SER 76) : 5.5804
+Side Chain Topographical Entropy from corr. pLogP method (ALA 77) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 78) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (THR 79) : 0.1698
+Side Chain Topographical Entropy from corr. pLogP method (TRP 80) : 1.7232
+Side Chain Topographical Entropy from corr. pLogP method (SER 81) : 0.3874
+Side Chain Topographical Entropy from corr. pLogP method (GLY 82) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLN 83) : 10.3670
+Side Chain Topographical Entropy from corr. pLogP method (TYR 84) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (VAL 85) : 2.1089
+Side Chain Topographical Entropy from corr. pLogP method (GLY 86) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 87) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 88) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLU 89) : 15.3116
+Side Chain Topographical Entropy from corr. pLogP method (ALA 90) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ARG 91) : 14.1400
+Side Chain Topographical Entropy from corr. pLogP method (ILE 92) : 0.2629
+Side Chain Topographical Entropy from corr. pLogP method (ASN 93) : 6.8563
+Side Chain Topographical Entropy from corr. pLogP method (THR 94) : 0.7495
+Side Chain Topographical Entropy from corr. pLogP method (GLN 95) : 2.5855
+Side Chain Topographical Entropy from corr. pLogP method (TRP 96) : 0.8151
+Side Chain Topographical Entropy from corr. pLogP method (LEU 97) : 1.0209
+Side Chain Topographical Entropy from corr. pLogP method (LEU 98) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (THR 99) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (SER 100) : 8.8756
+Side Chain Topographical Entropy from corr. pLogP method (GLY 101) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 102) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 103) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLU 104) : 21.2146
+Side Chain Topographical Entropy from corr. pLogP method (ALA 105) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ASN 106) : 2.9936
+Side Chain Topographical Entropy from corr. pLogP method (ALA 107) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TRP 108) : 5.4423
+Side Chain Topographical Entropy from corr. pLogP method (LYS 109) : 10.1508
+Side Chain Topographical Entropy from corr. pLogP method (SER 110) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 111) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LEU 112) : 1.8342
+Side Chain Topographical Entropy from corr. pLogP method (VAL 113) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 114) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (HID 115) : 5.7235
+Side Chain Topographical Entropy from corr. pLogP method (ASP 116) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 117) : 5.6667
+Side Chain Topographical Entropy from corr. pLogP method (PHE 118) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 119) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LYS 120) : 8.7944
+Side Chain Topographical Entropy from corr. pLogP method (VAL 121) : 2.3782
+Side Chain Topographical Entropy from corr. pLogP method (LYS 122) : 17.6854
+Side Chain Topographical Entropy from corr. pLogP method (PRO 123) : 14.6016
+Side Chain Topographical Entropy from corr. pLogP method (SER 124) : 7.1502
+Side Chain Topographical Entropy from corr. pLogP method (ALA 125) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 126) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (CSER 127) : 5.2743
+____________________________________________________________
+Total SC Topog. Entropy (corr. pLogP)    :         406.445
+------------------------------------------------------------
+------------------------------------------------------------
+Topographical entropy of BB dihedrals 
+computed using the correlated-pLogp formalism
+------------------------------------------------------------
+____________________________________________________________
+Total BB Topog. Entropy (corr. pLogP)    :          16.472
+------------------------------------------------------------
+____________________________________________________________
+Total Entropy                            :         422.917
+------------------------------------------------------------
+------------------------------------------------------------
+Topographical entropy of residue side chains 
+computed using all the dihedrals with correlation/pLogp formalism
+------------------------------------------------------------
+Side Chain Topographical Entropy from corr. pLogP method (NALA 1) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLU 2) : 22.9922
+Side Chain Topographical Entropy from corr. pLogP method (ALA 3) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 4) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ILE 5) : 3.2319
+Side Chain Topographical Entropy from corr. pLogP method (THR 6) : 1.9099
+Side Chain Topographical Entropy from corr. pLogP method (GLY 7) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 8) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TRP 9) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TYR 10) : 5.3728
+Side Chain Topographical Entropy from corr. pLogP method (ASN 11) : 3.9709
+Side Chain Topographical Entropy from corr. pLogP method (GLN 12) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LEU 13) : 0.7091
+Side Chain Topographical Entropy from corr. pLogP method (GLY 14) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (SER 15) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 16) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (PHE 17) : 6.5361
+Side Chain Topographical Entropy from corr. pLogP method (ILE 18) : 0.6965
+Side Chain Topographical Entropy from corr. pLogP method (VAL 19) : 0.9104
+Side Chain Topographical Entropy from corr. pLogP method (THR 20) : 6.7486
+Side Chain Topographical Entropy from corr. pLogP method (ALA 21) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 22) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 23) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ASP 24) : 14.4372
+Side Chain Topographical Entropy from corr. pLogP method (GLY 25) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 26) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LEU 27) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 28) : 8.4914
+Side Chain Topographical Entropy from corr. pLogP method (GLY 29) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 30) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TYR 31) : 5.6506
+Side Chain Topographical Entropy from corr. pLogP method (GLU 32) : 10.0360
+Side Chain Topographical Entropy from corr. pLogP method (SER 33) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 34) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (VAL 35) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 36) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ASN 37) : 13.2917
+Side Chain Topographical Entropy from corr. pLogP method (ALA 38) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLU 39) : 14.2786
+Side Chain Topographical Entropy from corr. pLogP method (SER 40) : 2.8473
+Side Chain Topographical Entropy from corr. pLogP method (ARG 41) : 3.9576
+Side Chain Topographical Entropy from corr. pLogP method (TYR 42) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (VAL 43) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LEU 44) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 45) : 5.9126
+Side Chain Topographical Entropy from corr. pLogP method (GLY 46) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ARG 47) : 0.2168
+Side Chain Topographical Entropy from corr. pLogP method (TYR 48) : 2.6417
+Side Chain Topographical Entropy from corr. pLogP method (ASP 49) : 2.5417
+Side Chain Topographical Entropy from corr. pLogP method (SER 50) : 4.0179
+Side Chain Topographical Entropy from corr. pLogP method (ALA 51) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (PRO 52) : 8.6861
+Side Chain Topographical Entropy from corr. pLogP method (ALA 53) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 54) : 5.3243
+Side Chain Topographical Entropy from corr. pLogP method (ASP 55) : 6.8126
+Side Chain Topographical Entropy from corr. pLogP method (GLY 56) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (SER 57) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 58) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 59) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 60) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LEU 61) : 4.2936
+Side Chain Topographical Entropy from corr. pLogP method (GLY 62) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TRP 63) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 64) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (VAL 65) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (ALA 66) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TRP 67) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (LYS 68) : 12.2019
+Side Chain Topographical Entropy from corr. pLogP method (ASN 69) : 1.4488
+Side Chain Topographical Entropy from corr. pLogP method (ASN 70) : 14.7785
+Side Chain Topographical Entropy from corr. pLogP method (TYR 71) : 8.4260
+Side Chain Topographical Entropy from corr. pLogP method (ARG 72) : 14.2850
+Side Chain Topographical Entropy from corr. pLogP method (ASN 73) : 0.2399
+Side Chain Topographical Entropy from corr. pLogP method (ALA 74) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (HID 75) : 0.1200
+Side Chain Topographical Entropy from corr. pLogP method (SER 76) : 7.3263
+Side Chain Topographical Entropy from corr. pLogP method (ALA 77) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 78) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 79) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TRP 80) : 1.5142
+Side Chain Topographical Entropy from corr. pLogP method (SER 81) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (GLY 82) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLN 83) : 8.8692
+Side Chain Topographical Entropy from corr. pLogP method (TYR 84) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (VAL 85) : 6.0354
+Side Chain Topographical Entropy from corr. pLogP method (GLY 86) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 87) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 88) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLU 89) : 21.1373
+Side Chain Topographical Entropy from corr. pLogP method (ALA 90) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ARG 91) : 11.0457
+Side Chain Topographical Entropy from corr. pLogP method (ILE 92) : 1.3879
+Side Chain Topographical Entropy from corr. pLogP method (ASN 93) : 0.3056
+Side Chain Topographical Entropy from corr. pLogP method (THR 94) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLN 95) : 3.5385
+Side Chain Topographical Entropy from corr. pLogP method (TRP 96) : 0.3050
+Side Chain Topographical Entropy from corr. pLogP method (LEU 97) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (LEU 98) : 1.9294
+Side Chain Topographical Entropy from corr. pLogP method (THR 99) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (SER 100) : 7.9901
+Side Chain Topographical Entropy from corr. pLogP method (GLY 101) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 102) : 1.6505
+Side Chain Topographical Entropy from corr. pLogP method (THR 103) : 3.6318
+Side Chain Topographical Entropy from corr. pLogP method (GLU 104) : 16.1439
+Side Chain Topographical Entropy from corr. pLogP method (ALA 105) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ASN 106) : 3.0482
+Side Chain Topographical Entropy from corr. pLogP method (ALA 107) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (TRP 108) : 5.2610
+Side Chain Topographical Entropy from corr. pLogP method (LYS 109) : 10.2596
+Side Chain Topographical Entropy from corr. pLogP method (SER 110) : 2.6914
+Side Chain Topographical Entropy from corr. pLogP method (THR 111) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (LEU 112) : 2.0252
+Side Chain Topographical Entropy from corr. pLogP method (VAL 113) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (GLY 114) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (HID 115) : 7.9545
+Side Chain Topographical Entropy from corr. pLogP method (ASP 116) : 0.0657
+Side Chain Topographical Entropy from corr. pLogP method (THR 117) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (PHE 118) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (THR 119) : 4.7559
+Side Chain Topographical Entropy from corr. pLogP method (LYS 120) : 11.7780
+Side Chain Topographical Entropy from corr. pLogP method (VAL 121) : 6.4689
+Side Chain Topographical Entropy from corr. pLogP method (LYS 122) : 19.3466
+Side Chain Topographical Entropy from corr. pLogP method (PRO 123) : 13.3850
+Side Chain Topographical Entropy from corr. pLogP method (SER 124) : 8.3140
+Side Chain Topographical Entropy from corr. pLogP method (ALA 125) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (ALA 126) : -0.0000
+Side Chain Topographical Entropy from corr. pLogP method (CSER 127) : 6.5212
+____________________________________________________________
+Total SC Topog. Entropy (corr. pLogP)    :         412.966
+------------------------------------------------------------
+------------------------------------------------------------
+Topographical entropy of BB dihedrals 
+computed using the correlated-pLogp formalism
+------------------------------------------------------------
+____________________________________________________________
+Total BB Topog. Entropy (corr. pLogP)    :          17.540
+------------------------------------------------------------
+____________________________________________________________
+Total Entropy                            :         430.505
+------------------------------------------------------------
