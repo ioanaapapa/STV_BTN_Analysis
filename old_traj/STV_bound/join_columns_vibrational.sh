@@ -1,8 +1,8 @@
-for level in {"polymer","res","uatom"};
-do
-	for term in {"transvib","rovib"};
-do
-	paste "STV_A_${level}_${term}_values.out" "STV_B_${level}_${term}_values.out" "STV_C_${level}_${term}_values.out" "STV_D_${level}_${term}_values.out" > "STV_${level}_${term}.out";
+#for level in {"polymer","res","uatom"};
+#do
+#	for term in {"transvib","rovib"};
+#do
+	paste "STV_A_res_transvib_values_without_scaling.out" "STV_B_res_transvib_values_without_scaling.out" "STV_C_res_transvib_values_without_scaling.out"	"STV_D_res_transvib_values_without_scaling.out" > "STV_res_transvib_values_without_scaling.out" ;
 
-done
-done
+#done
+#done
