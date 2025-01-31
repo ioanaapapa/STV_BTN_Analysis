@@ -1,8 +1,5 @@
-#for level in {"polymer","res","uatom"};
-#do
-	for term in {"transvib","rovib"}
+for term in {"transvib","rovib"}
 do
-	paste "STV_A_polymer_${term}_values.out" "STV_B_polymer_${term}_values.out" "STV_C_polymer_${term}_values.out" "STV_D_polymer_${term}_values.out" > "STV_polymer_${term}.out";
-
+	paste "STV_A_${term}_per_residue.out" "STV_B_${term}_per_residue.out" "STV_C_${term}_per_residue.out" "STV_D_${term}_per_residue.out" > "STV_${term}_per_residue.out";
 done
-#done
+
