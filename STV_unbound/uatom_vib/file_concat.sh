@@ -1,8 +1,8 @@
-#for term in {"topog_1","topog_2","topog_3"};
-#do
+for time in {"50ns","100ns","200ns","300ns","400ns"};
+do
 for X in {"A","B","C","D"};
 do
-	cat STV_complex_1${X}_entropy_old_res_without_scaling.out STV_complex_2${X}_entropy_old_res_without_scaling.out STV_complex_3${X}_entropy_old_res_without_scaling.out STV_complex_4${X}_entropy_old_res_without_scaling.out STV_complex_5${X}_entropy_old_res_without_scaling.out > STV_${X}_res_without_scaling.out;
+	cat STV_1${X}_entropy_uatom_${time}.out STV_2${X}_entropy_uatom_${time}.out STV_3${X}_entropy_uatom_${time}.out STV_4${X}_entropy_uatom_${time}.out STV_5${X}_entropy_uatom_${time}.out> STV_${X}_uatom_$time.out;
 done
-#done
+done
 

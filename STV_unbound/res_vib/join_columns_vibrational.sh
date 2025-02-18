@@ -2,7 +2,7 @@ for time in {"50ns","100ns","200ns","300ns","400ns"};
 do
 for term in {"transvib","rovib"};
 do
-	paste "STV_A_${term}_per_residue.out" "STV_B_${term}_per_residue.out" "STV_C_${term}_per_residue.out" "STV_D_${term}_per_residue.out" > "STV_${term}_per_residue.out";
+	paste "STV_A_residue_${term}_${time}_values.out" "STV_B_residue_${term}_${time}_values.out" "STV_C_residue_${term}_${time}_values.out" "STV_D_residue_${term}_${time}_values.out" > "STV_residue_${term}_${time}.out";
 done
 done
 
