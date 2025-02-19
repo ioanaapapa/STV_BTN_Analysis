@@ -1,0 +1,146 @@
+------------------------------------------------------------
+             Hierarchy level. --> Residues <--              
+------------------------------------------------------------
+FF Entropy (Residue level)               : 2864.2243 J/mol/K
+TT Entropy (Residue level)               : 4802.6125 J/mol/K
+____________________________________________________________
+Total Entropy                            :        7666.837
+------------------------------------------------------------
+------------------------------------------------------------
+            Hierarchy level. --> United Atom <--            
+------------------------------------------------------------
+      RESNAME   RESID  FF_ENTROPY  TT_ENTROPY
+UATOM NALA          1       9.512      37.803
+UATOM GLU           2      22.643      21.454
+UATOM ALA           3       5.181      24.668
+UATOM GLY           4       2.714      12.321
+UATOM ILE           5      25.508      52.012
+UATOM THR           6      20.604      33.042
+UATOM GLY           7       2.683      13.343
+UATOM THR           8      19.426      33.297
+UATOM TRP           9      51.829      41.454
+UATOM TYR          10      44.065      37.863
+UATOM ALA          11       6.643      25.237
+UATOM GLN          12      26.379      33.474
+UATOM LEU          13      22.589      51.246
+UATOM GLY          14       2.775      12.022
+UATOM SER          15      11.168      21.479
+UATOM THR          16      18.695      34.668
+UATOM PHE          17      34.956      35.791
+UATOM ILE          18      23.873      53.396
+UATOM VAL          19      19.114      43.433
+UATOM THR          20      18.945      35.817
+UATOM ALA          21       7.012      26.383
+UATOM GLY          22       2.541      13.511
+UATOM ALA          23       6.724      25.969
+UATOM ASP          24      19.322      15.090
+UATOM GLY          25       2.832      12.994
+UATOM ALA          26       6.996      25.108
+UATOM LEU          27      26.602      52.245
+UATOM THR          28      20.114      35.240
+UATOM GLY          29       2.734      13.964
+UATOM THR          30      19.578      33.848
+UATOM TYR          31      44.132      37.057
+UATOM GLU          32      27.005      21.847
+UATOM SER          33      11.383      21.100
+UATOM ALA          34       6.615      25.853
+UATOM VAL          35      17.896      44.404
+UATOM GLY          36       2.595      12.352
+UATOM ASN          37      20.956      25.237
+UATOM ALA          38       6.854      25.043
+UATOM GLU          39      24.640      23.029
+UATOM SER          40      12.739      22.171
+UATOM ARG          41      42.378      55.685
+UATOM TYR          42      43.603      39.476
+UATOM VAL          43      18.940      43.629
+UATOM LEU          44      27.026      51.726
+UATOM THR          45      19.870      36.478
+UATOM GLY          46       2.797      12.839
+UATOM ARG          47      47.653      57.849
+UATOM TYR          48      44.188      38.336
+UATOM ASP          49      23.307      15.229
+UATOM SER          50      12.683      22.017
+UATOM ALA          51       6.941      22.666
+UATOM PRO          52      13.673      26.713
+UATOM ALA          53       6.850      25.960
+UATOM THR          54      18.896      35.160
+UATOM ASP          55      20.656      15.290
+UATOM GLY          56       2.890      13.231
+UATOM SER          57      12.300      19.553
+UATOM GLY          58       2.588      12.453
+UATOM THR          59      20.334      34.849
+UATOM ALA          60       7.317      25.570
+UATOM LEU          61      24.887      50.261
+UATOM GLY          62       2.698      13.102
+UATOM TRP          63      50.482      40.042
+UATOM THR          64      20.132      34.218
+UATOM VAL          65      20.090      42.871
+UATOM ALA          66       7.584      25.940
+UATOM TRP          67      51.828      42.041
+UATOM LYS          68      29.811      50.116
+UATOM ASN          69      23.517      25.941
+UATOM ASN          70      21.025      26.627
+UATOM TYR          71      40.759      37.108
+UATOM ARG          72      39.651      54.981
+UATOM ASN          73      24.800      26.188
+UATOM ALA          74       7.086      25.483
+UATOM HID          75      30.313      28.504
+UATOM SER          76      11.698      21.639
+UATOM ALA          77       6.963      26.054
+UATOM THR          78      20.273      34.986
+UATOM THR          79      19.656      37.926
+UATOM TRP          80      51.465      41.716
+UATOM SER          81      12.203      25.199
+UATOM GLY          82       2.778      12.172
+UATOM GLN          83      32.034      33.769
+UATOM TYR          84      43.586      37.429
+UATOM VAL          85      19.943      42.968
+UATOM GLY          86       2.394      12.030
+UATOM GLY          87       2.668      12.887
+UATOM ALA          88       7.034      25.642
+UATOM GLU          89      25.181      21.633
+UATOM ALA          90       7.299      25.302
+UATOM ARG          91      46.365      58.442
+UATOM ILE          92      25.918      50.500
+UATOM ASN          93      23.585      25.985
+UATOM THR          94      20.339      34.529
+UATOM GLN          95      32.093      33.573
+UATOM TRP          96      51.514      41.127
+UATOM LEU          97      26.444      52.181
+UATOM LEU          98      25.673      52.308
+UATOM THR          99      19.563      35.751
+UATOM SER         100      11.571      22.083
+UATOM GLY         101       2.669      12.568
+UATOM THR         102      18.533      34.369
+UATOM THR         103      19.520      33.320
+UATOM GLU         104      25.555      22.946
+UATOM ALA         105       7.162      25.755
+UATOM ASN         106      22.647      27.543
+UATOM ALA         107       7.132      25.997
+UATOM TRP         108      46.241      39.930
+UATOM LYS         109      29.215      53.600
+UATOM SER         110      11.392      22.413
+UATOM THR         111      20.488      34.832
+UATOM LEU         112      25.762      50.668
+UATOM VAL         113      19.199      43.805
+UATOM GLY         114       2.568      12.247
+UATOM HID         115      29.602      29.426
+UATOM ASP         116      21.980      14.410
+UATOM THR         117      20.196      33.679
+UATOM PHE         118      35.371      36.005
+UATOM THR         119      18.635      34.655
+UATOM LYS         120      29.794      54.711
+UATOM VAL         121      17.410      44.943
+UATOM LYS         122      27.806      52.103
+UATOM PRO         123      12.561      26.475
+UATOM SER         124      10.648      21.319
+UATOM ALA         125       6.657      24.500
+UATOM ALA         126       5.887      23.948
+UATOM CSER        127      15.580      21.235
+____________________________________________________________
+Total Entropy FF (UA level) :        2526.572 J/mol/K
+Total Entropy TT (UA level) :        3969.636 J/mol/K
+------------------------------------------------------------
+____________________________________________________________
+Total Entropy                            :        6496.209
+------------------------------------------------------------
