@@ -1,4 +1,4 @@
-for time in {"50ns","100ns","200ns","300ns","400ns"};
+for time in {"50ns","100ns","200ns","300ns"};
 do
 for X in {"A","B","C","D"};
 do
